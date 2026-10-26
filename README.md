@@ -1,6 +1,6 @@
 ### Hey, I'm Juwen Lie
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juwenlie-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/juwenlie) [![Portfolio](https://img.shields.io/badge/Portfolio-juw12.github.io-222?style=flat)](https://juw12.github.io/portfolio/) [![Email](https://img.shields.io/badge/Email-juwen12006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juwen12006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juwenlie-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/juwenlie) [![Portfolio](https://img.shields.io/badge/Portfolio-juwenlie.pages.dev-222?style=flat)](https://juwenlie.pages.dev/) [![Email](https://img.shields.io/badge/Email-juwen12006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juwen12006@gmail.com)
 
 R&D mechanical engineer in Batam, Indonesia, with an aerospace background: product reliability, DVT, NPI and root-cause analysis. I build offline-first tools and AI experiments on the side, and I'm learning Fortran for CFD work. Open source: [Projects](https://github.com/juw12/projects) [![GitHub stars](https://img.shields.io/github/stars/juw12/projects?style=flat&color=gold)](https://github.com/juw12/projects) · Co-founder account: [@juwpegatron](https://github.com/juwpegatron)
 
