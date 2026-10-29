@@ -12,13 +12,11 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 - **[Kitty](https://juw12.github.io/projects/kitty/web.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/kitty) - Shared budgets you edit live together: 30-second setup, limit warnings and a portfolio tracker. 4 languages, free on web, iPhone and Android.
 - **[Pips](https://juw12.github.io/projects/pips/web.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/pips) - Desktop pet and Pomodoro widget for Windows: 23 animals with moods, taskbar walks, reminders and 4 languages.
 - **[Vitals](https://juw12.github.io/projects/vitals/index.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/vitals) - Device-health copilot for laptops and phones: one-step install, undoable cleaning, battery forecast, drain detective, QR phone pairing and a fix-it chat.
-- **[Guang Yao Together · 光耀同行](https://juw12.github.io/projects/guangyao/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/guangyao) - Unofficial Traditional Chinese learning PWA with admin-published lessons, an AI study companion, spaced review and streaks.
 - **[Twin](https://juw12.github.io/projects/twin/web.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/twin) - Investing companion with a five-analyst AI research team, global stock search, paper trading, a Replay Lab and a rupiah side for IDX stocks, crypto and gold.
 - **[Peers](https://juw12.github.io/projects/peers/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/peers) - Offline-first reviews across 32 categories with a Use it / Wait / Skip scorecard, a Ctrl/⌘K palette, saved reviews and dark mode.
 - **[Orbis](https://juw12.github.io/projects/orbis/index.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/orbis) - Personal comms hub plus live Orbis Chat: real accounts, teams, invites and push alerts on web, iPhone and Android.
 - **[Sync](https://juw12.github.io/projects/sync/web.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/sync) - Listen to music together in real time across Spotify, Apple Music and YouTube, with voice chat, on web, Android and iPhone.
 - **[Fade](https://juw12.github.io/projects/fade/web.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/fade) - Barber marketplace with haircut shorts, live and free: book barbers, pay them directly at 0% fee and earn from your shorts.
-- **[House of Articles](https://juw12.github.io/projects/house-of-articles/desktop.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/house-of-articles) - Athlete-moment sneaker news with a live market feed.
 
 #### Creator tools
 
@@ -36,9 +34,11 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 - **[Explicit MacCormack Method](https://github.com/juw12/Explicit-Maccormack-Method)** [![GitHub stars](https://img.shields.io/github/stars/juw12/Explicit-Maccormack-Method?style=flat&color=gold)](https://github.com/juw12/Explicit-Maccormack-Method) - CFD numerical-methods study of the explicit MacCormack scheme.
 - **[Upwind Differencing Scheme](https://github.com/juw12/Upwind-Differencing-Scheme)** [![GitHub stars](https://img.shields.io/github/stars/juw12/Upwind-Differencing-Scheme?style=flat&color=gold)](https://github.com/juw12/Upwind-Differencing-Scheme) - CFD numerical-methods study of upwind differencing.
 
+<!-- Hidden on purpose: delete this comment wrapper to show Tools I use again.
 #### Tools I use
 
 - **[SOMA](https://somacad.app/)** [![Website](https://img.shields.io/badge/site-visit-0A66C2?style=flat)](https://somacad.app/) - Open-source AI CAD: describe a part, a coding agent writes CadQuery and SOMA builds it.
 - **[Vector](https://heyvector.co/)** [![Website](https://img.shields.io/badge/site-visit-0A66C2?style=flat)](https://heyvector.co/) - Engineering copilot inside Autodesk Fusion and SOLIDWORKS.
+-->
 
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
