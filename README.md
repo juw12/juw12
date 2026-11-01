@@ -16,12 +16,6 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 
 - **[Hazel](https://juw12.github.io/projects/hazel/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/hazel) - One creator studio, three apps: Hazel Shorts for faceless explainer shorts, Hazel Sped for sped-up and mashup edits of your songs, and Hazel Long to create, cut and publish long-form video.
 
-#### Archive / WIP
-
-Concepts and side experiments that are interesting enough to keep on record but not actively shipped or maintained. Kept here so they don't get lost between sessions.
-
-- **[PostPilot](https://github.com/juw12/projects/tree/main/apps/building/postpilot)** - LinkedIn ghostwriting service for B2B coaches and consultants. 3 on-brand posts per week, voice-trained on the client's past posts, delivered every Monday. Founder pricing $49/$99/$199/mo for the first 5 clients. Currently in brainstorm / pre-launch — see the folder for the full launch kit (landing page, prompt system, outreach playbook, automation scripts).
-
 #### Engineering
 
 - **[Airiz Motor](https://juw12.github.io/projects/airiz-motor/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/airiz-motor) - AIRIZ test console for Windows, phones and web: USB jog, remote control and camera by code, live device checks (reported firmware, camera-confirmed moves, hardware check), a camera-based wobble test that grades the rising head 1 to 4, `Home` key sends the camera home, auto night vision listens to both the light sensor and the camera picture. [Windows app v1.11.21](https://github.com/juw12/projects/releases/tag/airiz-desktop-v1.11.21).
@@ -38,6 +32,9 @@ Concepts and side experiments that are interesting enough to keep on record but 
 
 #### Archive
 
+AI prompt products and side experiments that aren't shipped but worth keeping on record. The pattern: a copy-paste prompt pack + a launch kit + a small landing page, all sitting in the `building/` section until there's signal to ship.
+
 - **[150 ChatGPT Prompts for Etsy Sellers](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product) [![new](https://img.shields.io/badge/new-WIP-brightgreen?style=flat)](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product) - 150 copy-paste prompts across 9 sections (titles, descriptions, tags, customer service, social, emails, photos, research, diagnosis) packaged as a 6-phase workflow that writes an Etsy listing in 5 minutes. Updated for Etsy's 2026 algorithm. PDF + Notion template + plain text. Sold on Gumroad at $24; launch from this repo's `building/` section. Brand voice worksheet included so AI output stops sounding like a robot.
+- **[PostPilot](https://github.com/juw12/projects/tree/main/apps/building/postpilot)** - LinkedIn ghostwriting service for B2B coaches and consultants. The pattern is the same: a voice-training prompt + a weekly generator + a quality check + an outreach playbook, all sitting in `apps/building/postpilot/`. Founder pricing $49/$99/$199/mo for the first 5 clients. Brainstorm / pre-launch — the kit is ready (landing page, prompts, DMs, automation scripts), but no signal yet on whether to ship the service or sell the kit.
 
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
