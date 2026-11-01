@@ -13,9 +13,10 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 - **[Teman Sehat](https://juw12.github.io/projects/teman-sehat/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/teman-sehat) - GERD lifestyle companion in Bahasa Indonesia: daily reminders and an after-meal timer, a symptom and trigger log, diet and fitness without fasting (calorie and protein targets, five small meals, food, exercise and weight logs) and acne care with a skin routine and guide. Works offline and installs on Windows, Mac, Android and iPhone; [try the demo](https://juw12.github.io/projects/teman-sehat/index.html#demo).
 - **[Hazel](https://juw12.github.io/projects/hazel/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/hazel) - One creator studio, three apps: Hazel Shorts for faceless explainer shorts, Hazel Sped for sped-up and mashup edits of your songs, and Hazel Long to create, cut and publish long-form video.
 
-#### 🎮 Game
+#### 🎮 Games
 
 - **[VALE](https://juw12.github.io/vale/)** [![Source](https://img.shields.io/badge/source-repo-24292f?style=flat&logo=github)](https://github.com/juw12/vale) - VALE — a 3D interactive fairy world (Unity 6 + HDRP). First-person explorer that collects five Lumenshards to restore a fading fairy realm, with dialogue, quests, procedural forest, and a Sacred Glade finale. Includes an interactive HTML preview (no Unity install required) and 5 concept art renders. [Open the UI preview](https://juw12.github.io/vale/preview.html) · [See the concept art](https://juw12.github.io/vale/preview/gallery.html).
+- **[Hearthwood](https://github.com/juw12/hearthwood)** [![Source](https://img.shields.io/badge/source-repo-24292f?style=flat&logo=github)](https://github.com/juw12/hearthwood) - Hearthwood — a medieval low-poly village prototype (Unity 6 + URP). 3rd-person action-adventure with dialogue, quests, inventory, NPC AI, and a favor-token economy. Ships with a [self-contained HTML preview](https://github.com/juw12/hearthwood/blob/main/preview.html) that runs in any browser without Unity (full 3-quest chain end-to-end).
 
 #### Engineering
 
@@ -44,4 +45,4 @@ AI prompt products and side experiments that aren't shipped but worth keeping on
 
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
 
-<!-- cache-bust: 2026-11-01T17:30:00Z -->
+<!-- cache-bust: 2026-11-01T17:35:00Z -->
