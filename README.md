@@ -16,6 +16,12 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 
 - **[Hazel](https://juw12.github.io/projects/hazel/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/hazel) - One creator studio, three apps: Hazel Shorts for faceless explainer shorts, Hazel Sped for sped-up and mashup edits of your songs, and Hazel Long to create, cut and publish long-form video.
 
+#### Archive / WIP
+
+Concepts and side experiments that are interesting enough to keep on record but not actively shipped or maintained. Kept here so they don't get lost between sessions.
+
+- **[PostPilot](https://github.com/juw12/projects/tree/main/apps/building/postpilot)** - LinkedIn ghostwriting service for B2B coaches and consultants. 3 on-brand posts per week, voice-trained on the client's past posts, delivered every Monday. Founder pricing $49/$99/$199/mo for the first 5 clients. Currently in brainstorm / pre-launch — see the folder for the full launch kit (landing page, prompt system, outreach playbook, automation scripts).
+
 #### Engineering
 
 - **[Airiz Motor](https://juw12.github.io/projects/airiz-motor/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/airiz-motor) - AIRIZ test console for Windows, phones and web: USB jog, remote control and camera by code, live device checks (reported firmware, camera-confirmed moves, hardware check), a camera-based wobble test that grades the rising head 1 to 4, `Home` key sends the camera home, auto night vision listens to both the light sensor and the camera picture. [Windows app v1.11.21](https://github.com/juw12/projects/releases/tag/airiz-desktop-v1.11.21).
