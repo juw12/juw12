@@ -11,9 +11,6 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 - **[Pips](https://juw12.github.io/projects/pips/web.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/pips) - Desktop pet and Pomodoro widget for Windows: 51 animals that walk, swim and fly, friends and chat, turn-based skill battles with auto play, minigames, live weather and 4 languages. Focus Trail turns your work day into a Strava-style route sticker, and [Phone Trail](https://juw12.github.io/projects/pips/trail/) does the same for your phone's screen time.
 - **[Vitals](https://juw12.github.io/projects/vitals/index.html)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/vitals) - Device-health copilot with real desktop apps for Windows, Mac and Linux (its own window, not a browser tab), plus Android and iPhone apps that check the phone itself (storage, memory, battery, heat): undoable cleaning, battery forecast, drain detective, QR phone pairing and a fix-it chat; quick even on locked-down work PCs.
 - **[Teman Sehat](https://juw12.github.io/projects/teman-sehat/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/teman-sehat) - GERD lifestyle companion in Bahasa Indonesia: daily reminders and an after-meal timer, a symptom and trigger log, diet and fitness without fasting (calorie and protein targets, five small meals, food, exercise and weight logs) and acne care with a skin routine and guide. Works offline and installs on Windows, Mac, Android and iPhone; [try the demo](https://juw12.github.io/projects/teman-sehat/index.html#demo).
-
-#### Creator tools
-
 - **[Hazel](https://juw12.github.io/projects/hazel/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/hazel) - One creator studio, three apps: Hazel Shorts for faceless explainer shorts, Hazel Sped for sped-up and mashup edits of your songs, and Hazel Long to create, cut and publish long-form video.
 
 #### Engineering
@@ -42,4 +39,4 @@ AI prompt products and side experiments that aren't shipped but worth keeping on
 
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
 
-<!-- cache-bust: 2026-11-01T09:09:56Z -->
+<!-- cache-bust: 2026-11-01T10:30:00Z -->
