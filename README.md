@@ -30,4 +30,8 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 - **[Vector](https://heyvector.co/)** [![Website](https://img.shields.io/badge/site-visit-0A66C2?style=flat)](https://heyvector.co/) - Engineering copilot inside Autodesk Fusion and SOLIDWORKS.
 -->
 
+#### Archive
+
+- **[150 ChatGPT Prompts for Etsy Sellers](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product) [![new](https://img.shields.io/badge/new-WIP-brightgreen?style=flat)](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product) - 150 copy-paste prompts across 9 sections (titles, descriptions, tags, customer service, social, emails, photos, research, diagnosis) packaged as a 6-phase workflow that writes an Etsy listing in 5 minutes. Updated for Etsy's 2026 algorithm. PDF + Notion template + plain text. Sold on Gumroad at $24; launch from this repo's `building/` section. Brand voice worksheet included so AI output stops sounding like a robot.
+
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
