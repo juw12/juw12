@@ -22,6 +22,8 @@ Concepts and side experiments that are interesting enough to keep on record but 
 
 - **[PostPilot](https://github.com/juw12/projects/tree/main/apps/building/postpilot)** - LinkedIn ghostwriting service for B2B coaches and consultants. 3 on-brand posts per week, voice-trained on the client's past posts, delivered every Monday. Founder pricing $49/$99/$199/mo for the first 5 clients. Currently in brainstorm / pre-launch — see the folder for the full launch kit (landing page, prompt system, outreach playbook, automation scripts).
 
+
+- **[Handoff](https://github.com/juw12/loop-zero)** - AI automation agency + SaaS for SMBs worldwide. Five Next.js apps (portfolio, saas landing with Lemon Squeezy checkout, AI review-responder, AI listing-writer, fake-door niche validator). Cold-outreach copy, 5 globally-scored niches, 14-day validation playbook. $29/mo Pro, $99/mo Team. Code: [juw12/loop-zero](https://github.com/juw12/loop-zero).
 #### Engineering
 
 - **[Airiz Motor](https://juw12.github.io/projects/airiz-motor/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/airiz-motor) - AIRIZ test console for Windows, phones and web: USB jog, remote control and camera by code, live device checks (reported firmware, camera-confirmed moves, hardware check), a camera-based wobble test that grades the rising head 1 to 4, `Home` key sends the camera home, auto night vision listens to both the light sensor and the camera picture. [Windows app v1.11.21](https://github.com/juw12/projects/releases/tag/airiz-desktop-v1.11.21).
