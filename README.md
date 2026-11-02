@@ -55,7 +55,7 @@ Prompt packs and product experiments kept on record.
 - **[Atomize](https://github.com/juw12/atomize)** [![Source](https://img.shields.io/badge/source-juw12/atomize-24292f?style=flat&logo=github)](https://github.com/juw12/atomize): AI content repurposing SaaS. Paste one blog post, get 5 LinkedIn posts, 8 tweets, 3 newsletters and a YouTube Short script. Next.js 14 + Claude, Lemon Squeezy for payments.
 - **[150 ChatGPT Prompts for Etsy Sellers](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product)**: 150 copy-paste prompts across 9 sections, packaged as a 6-phase workflow that writes an Etsy listing in 5 minutes. PDF + Notion template.
 - **[Respark](https://github.com/juw12/projects/tree/main/respark)**: Customer reactivation SaaS for local service businesses. Zero-dependency Python + SQLite, 43 tests passing.
-- **[Handoff](https://github.com/juw12/loop-zero)** [![Source](https://img.shields.io/badge/source-juw12/loop-zero-24292f?style=flat&logo=github)](https://github.com/juw12/loop-zero): AI automation agency plus SaaS product for SMBs. Five Next.js apps, cold-outreach copy and a 14-day validation playbook.
+- **[Handoff](https://github.com/juw12/loop-zero)** [![Source](https://img.shields.io/badge/source-juw12/loop--zero-24292f?style=flat&logo=github)](https://github.com/juw12/loop-zero): AI automation agency plus SaaS product for SMBs. Five Next.js apps, cold-outreach copy and a 14-day validation playbook.
 
 #### More
 
