@@ -22,6 +22,7 @@ R&D mechanical engineer in Batam, Indonesia, with an aerospace background: produ
 - **[Peers](https://juw12.github.io/projects/peers/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/peers) - Verified reviews across category modes (food, travel, market, AI tools, health, finance) — every category shares one interface.
 - **[Nudge](https://juw12.github.io/nudge/)** [![Source](https://img.shields.io/badge/source-juw12/nudge-24292f?style=flat&logo=github)](https://github.com/juw12/nudge) [![new](https://img.shields.io/badge/new-WIP-brightgreen?style=flat)](https://github.com/juw12/nudge) - Friends send you reels, you doomscroll past them. Nudge reads your own Instagram, WhatsApp, Telegram and iMessage exports and shows who you've been leaving on read, which shares you never answered, and a ready-to-send opener to reconnect. Weekly digest with a desktop notification, plus an iOS widget that nudges you when you open Instagram. Installable web app (phone + desktop, works offline) that reads exports right in the browser, plus a Python CLI. 100% local, no accounts. Tested on sample data; real-export testing next.
 - **[House of Articles](https://juw12.github.io/projects/house-of-articles/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/house-of-articles) - Athlete-moment sneaker news + live market feed.
+- **[shiphub](https://github.com/juw12/shiphub)** [![Source](https://img.shields.io/badge/source-juw12/shiphub-24292f?style=flat&logo=github)](https://github.com/juw12/shiphub) - Pinterest for app ideas, with forum threads: save ideas to boards, discuss them in threads, fork them, claim one with "I'm building this" and mark it shipped with repo and demo links. GitHub sign-in, image uploads, notifications and copy-as-AI-prompt. Runs on plain Python with SQLite or Postgres, ready to deploy on Render or Fly.io.
 
 #### 🎮 Games
 
@@ -54,4 +55,4 @@ AI prompt products and side experiments that aren't shipped but worth keeping on
 
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
 
-<!-- cache-bust: 2026-11-01T18:15:00Z -->
+<!-- cache-bust: 2026-11-02T01:16:03Z -->
