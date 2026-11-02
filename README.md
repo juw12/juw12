@@ -1,6 +1,6 @@
 ### Hey, I'm Juwen Lie
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juwenlie-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/juwenlie) [![Portfolio](https://img.shields.io/badge/Portfolio-juwenlie.pages.dev-222?style=flat)](https://juwenlie.pages.dev/) [![Email](https://img.shields.io/badge/Email-juwen12006%40gmail.com-D14836?style=flat&logo=gmail&logo=white)](mailto:juwen12006@gmail.com)
+[![Follow](https://img.shields.io/github/followers/juw12?label=Follow&style=social)](https://github.com/juw12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-juwenlie-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/juwenlie) [![Portfolio](https://img.shields.io/badge/Portfolio-juwenlie.pages.dev-222?style=flat)](https://juwenlie.pages.dev/) [![Email](https://img.shields.io/badge/Email-juwen12006%40gmail.com-D14836?style=flat&logo=gmail&logo=white)](mailto:juwen12006@gmail.com)
 
 R&D mechanical engineer in Batam, Indonesia, with an aerospace background: product reliability, DVT, NPI and root-cause analysis. I build offline-first tools and AI experiments on the side, and I'm learning Fortran for CFD work.
 
@@ -63,8 +63,8 @@ The full monorepo: [Projects](https://github.com/juw12/projects). Standalone: [N
 
 #### Follow
 
-[LinkedIn](https://linkedin.com/in/juwenlie) · [Portfolio](https://juwenlie.pages.dev/) · [Email](mailto:juwen12006@gmail.com)
+[GitHub](https://github.com/juw12) · [LinkedIn](https://linkedin.com/in/juwenlie) · [Portfolio](https://juwenlie.pages.dev/) · [Email](mailto:juwen12006@gmail.com)
 
 <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub>
 
-If something here is useful, a star on the repo helps.
+If something here is useful, a ⭐ on the repo helps, and [following @juw12](https://github.com/juw12) keeps you posted on what ships next.
