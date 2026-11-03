@@ -1,0 +1,39 @@
+name: Update Building section
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # every 2 hours
+  workflow_dispatch:           # "Run workflow" button
+  push:
+    branches: [main]
+    paths: [README.md]         # re-sort right after you edit the list
+
+permissions:
+  contents: write
+
+concurrency:
+  group: building-section
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh activity in README.md
+        run: python3 .github/scripts/update_building.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update Building section activity"
+          git pull --rebase
+          git push
