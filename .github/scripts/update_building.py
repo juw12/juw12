@@ -9,6 +9,10 @@ Hand-written text is never changed: only the status line (between <!--live-->
 markers) and the order of bullets are managed here. New bullets are picked up
 automatically as long as they contain a "Source" badge linking to GitHub.
 
+Every status line starts with two ways to read about the project:
+"Landing page" (a marketing page from .github/landing.json, a copy of
+https://juw12.github.io/p/landing.json) and "README" (the source's README).
+
 Standard library only. Run locally with:  python .github/scripts/update_building.py
 """
 
@@ -33,6 +37,32 @@ CAPTION = "<sub><!--caption-->Sorted by latest commit and refreshed automaticall
 STATUS_RE = re.compile(r"<br><sub><!--live-->.*?<!--/live--></sub>")
 SOURCE_RE = re.compile(r"\[!\[Source\]\([^)]*\)\]\((https://github\.com/[^)\s]+)\)")
 API_ROOT = "https://api.github.com"
+LANDING_FILE = Path(__file__).resolve().parents[1] / "landing.json"
+
+
+def load_landings() -> dict[str, str]:
+    """Normalized source URL -> landing page URL (empty if the manifest is missing)."""
+    try:
+        manifest = json.loads(LANDING_FILE.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    return {normalize(source): entry["landing"] for source, entry in manifest.items() if entry.get("landing")}
+
+
+def normalize(url: str) -> str:
+    return url.lower().rstrip("/")
+
+
+def view_links(source_url: str | None, landings: dict[str, str]) -> str:
+    """'✨ Landing page · 📖 README' for a bullet, or '' when it has no source."""
+    if not source_url:
+        return ""
+    links = []
+    landing = landings.get(normalize(source_url))
+    if landing:
+        links.append(f"✨ [Landing page]({landing})")
+    links.append(f"📖 [README]({source_url}#readme)")
+    return " · ".join(links)
 
 
 def api(path: str):
@@ -80,22 +110,24 @@ def escape_markdown(text: str) -> str:
     return re.sub(r"([\\`*_\[\]|])", r"\\\1", text)
 
 
-def status_line(info: dict, now: dt.datetime) -> str:
-    age_days = (now - info["date"]).total_seconds() / 86400
-    dot = "🟢" if age_days < 2 else "🟡" if age_days < 14 else "⚪"
-    date = f"{info['date']:%b} {info['date'].day}"
-    week = info["week"]
-    if week == 0:
-        week_text = "quiet this week"
-    else:
-        week_text = f"{'100+' if week >= 100 else week} commit{'' if week == 1 else 's'} this week"
-    message = info["message"]
-    if len(message) > 72:
-        message = message[:71].rstrip() + "…"
-    return (
-        f"<br><sub><!--live-->{dot} Updated {date} · {week_text} · "
-        f"latest: [{escape_markdown(message)}]({info['url']})<!--/live--></sub>"
-    )
+def status_line(info: dict | None, now: dt.datetime, links: str = "") -> str:
+    parts = [links] if links else []
+    if info:
+        age_days = (now - info["date"]).total_seconds() / 86400
+        dot = "🟢" if age_days < 2 else "🟡" if age_days < 14 else "⚪"
+        date = f"{info['date']:%b} {info['date'].day}"
+        week = info["week"]
+        if week == 0:
+            week_text = "quiet this week"
+        else:
+            week_text = f"{'100+' if week >= 100 else week} commit{'' if week == 1 else 's'} this week"
+        message = info["message"]
+        if len(message) > 72:
+            message = message[:71].rstrip() + "…"
+        parts.append(f"{dot} Updated {date} · {week_text} · latest: [{escape_markdown(message)}]({info['url']})")
+    if not parts:
+        return ""
+    return f"<br><sub><!--live-->{' · '.join(parts)}<!--/live--></sub>"
 
 
 def update(readme_text: str, now: dt.datetime) -> str:
@@ -112,22 +144,25 @@ def update(readme_text: str, now: dt.datetime) -> str:
         elif line.strip() and "<!--caption-->" not in line:
             other_lines.append(line)
 
+    landings = load_landings()
     sources = []
+    links = []
     for bullet in bullets:
         match = SOURCE_RE.search(bullet)
         sources.append(parse_source(match.group(1)) if match else None)
+        links.append(view_links(match.group(1) if match else None, landings))
     unique_sources = sorted({source for source in sources if source}, key=str)
     # Look up all sources in parallel; any failure propagates and aborts the whole update.
     with ThreadPoolExecutor(max_workers=8) as pool:
         activity = dict(zip(unique_sources, pool.map(lambda source: fetch_activity(source, now), unique_sources)))
     entries = [
-        (bullet, activity.get(source) if source else None, order)
-        for order, (bullet, source) in enumerate(zip(bullets, sources))
+        (bullet, activity.get(source) if source else None, order, link)
+        for order, (bullet, source, link) in enumerate(zip(bullets, sources, links))
     ]
 
     # Most recent activity first; entries without a resolvable source keep their order at the end.
     entries.sort(key=lambda entry: (entry[1] is None, -(entry[1]["date"].timestamp() if entry[1] else 0), entry[2]))
-    lines = [bullet + (status_line(info, now) if info else "") for bullet, info, _ in entries]
+    lines = [bullet + status_line(info, now, link) for bullet, info, _, link in entries]
 
     section = "\n".join([START, CAPTION, *other_lines, "", *lines, END])
     return head + section + tail
