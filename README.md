@@ -147,7 +147,7 @@
 <!-- BUILDING:END -->
 
 </details>
-## Tools
+<a name="tools"></a>
 
 <details open>
 <summary><b>22 tools</b> in <a href="https://github.com/juw12/tools">juw12/tools</a>, plus a factory to build more (<code>python3 toolbox.py new &lt;name&gt;</code>)</summary>
