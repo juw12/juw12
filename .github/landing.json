@@ -194,6 +194,21 @@
   "landing": "https://juw12.github.io/p/house-of-articles/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/house-of-articles#readme"
  },
+ "https://github.com/juw12/steward": {
+  "name": "Steward",
+  "landing": "https://juw12.github.io/p/steward/",
+  "readme": "https://github.com/juw12/steward#readme"
+ },
+ "https://github.com/juw12/morning-paper-web": {
+  "name": "The Morning Paper",
+  "landing": "https://juw12.github.io/p/morning-paper/",
+  "readme": "https://github.com/juw12/morning-paper-web#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/rewind": {
+  "name": "Rewind",
+  "landing": "https://juw12.github.io/p/rewind/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/rewind#readme"
+ },
  "https://github.com/juw12/atomize": {
   "name": "Atomize",
   "landing": "https://juw12.github.io/p/atomize/",
