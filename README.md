@@ -165,6 +165,10 @@
 
 </details>
 
+**🤖 Agent skills** in [juw12/skills](https://github.com/juw12/skills): plain `SKILL.md` files for Claude Code, OpenCode, Codex and [SkillMouse](https://github.com/juw12/skillmouse). Agents that verify instead of claiming.<br>
+<sub>[refine-loop](https://github.com/juw12/skills/blob/main/skills/refine-loop/SKILL.md) · [harness](https://github.com/juw12/skills/blob/main/skills/harness/SKILL.md) · [heartbeat](https://github.com/juw12/skills/blob/main/skills/heartbeat/SKILL.md) · [delegator](https://github.com/juw12/skills/blob/main/skills/delegator/SKILL.md) · [soul](https://github.com/juw12/skills/blob/main/skills/soul/SKILL.md) · [memory-management](https://github.com/juw12/skills/blob/main/skills/memory-management/SKILL.md) · [widgettheme](https://github.com/juw12/skills/blob/main/skills/widgettheme/SKILL.md) · [Push Lab QA (3)](https://github.com/juw12/skills#push-lab-qa-skills)</sub>
+
+
 ## Games
 
 <table>
