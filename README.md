@@ -13,6 +13,7 @@
   <a href="mailto:juwen12006@gmail.com"><b>Email</b></a> ·
   <a href="#featured">Featured</a> ·
   <a href="#building">Building</a> ·
+  <a href="#tools">Tools</a> ·
   <a href="#games">Games</a> ·
   <a href="#engineering">Engineering</a>
 </p>
@@ -117,6 +118,24 @@
 - **[Guang Yao Together 光耀同行](https://juw12.github.io/projects/guangyao/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/guangyao): An unofficial Traditional Chinese learning app with admin-published lessons, an AI study companion, spaced review and streaks. A PWA, an Android app and a free iPhone home-screen app.<br><sub><!--live-->🟢 Updated Nov 3 · 1 commit this week · latest: [docs: Filee-style hero for every app README (banner, live demo, downloa…](https://github.com/juw12/projects/commit/4bcc1bdd5ae1b81ff2ee869aa72ca5499eff52f8)<!--/live--></sub>
 - **[House of Articles](https://juw12.github.io/projects/house-of-articles/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/house-of-articles): Athlete-moment sneaker news plus a live market feed, linking on-court moments to resale price moves.<br><sub><!--live-->🟢 Updated Nov 3 · 1 commit this week · latest: [docs: Filee-style hero for every app README (banner, live demo, downloa…](https://github.com/juw12/projects/commit/4bcc1bdd5ae1b81ff2ee869aa72ca5499eff52f8)<!--/live--></sub>
 <!-- BUILDING:END -->
+
+</details>
+
+## Tools
+
+<sub>Small, local, private tools for underrated problems. Python standard library only, no accounts, every tool has a self-test. <a href="https://github.com/juw12/tools">Source &amp; docs</a></sub>
+
+<details open>
+<summary><b>20 tools</b> in <a href="https://github.com/juw12/tools">juw12/tools</a>, plus a factory to build more (<code>python3 toolbox.py new &lt;name&gt;</code>)</summary>
+
+| Area | Tools |
+|---|---|
+| 💸 Money | [Subscription Leak Finder](https://github.com/juw12/tools/blob/main/tools/subscription_leaks.py) · [Bank Fee Detector](https://github.com/juw12/tools/blob/main/tools/fee_detector.py) · [Contract Red-Flag Scanner](https://github.com/juw12/tools/blob/main/tools/contract_redflags.py) · [Shrinkflation Detector](https://github.com/juw12/tools/blob/main/tools/shrinkflation.py) · [Warranty Tracker](https://github.com/juw12/tools/blob/main/tools/warranty_tracker.py) |
+| 🛡️ Safety | [Scam Message Checker](https://github.com/juw12/tools/blob/main/tools/scam_check.py) · [Fake Shop Checker](https://github.com/juw12/tools/blob/main/tools/fake_shop_check.py) · [Rental Scam Checker](https://github.com/juw12/tools/blob/main/tools/rental_scam_check.py) · [Voice-Clone Safe-Word Kit](https://github.com/juw12/tools/blob/main/tools/voice_clone_safeword.py) |
+| 🔒 Privacy | [GDPR / CCPA Deletion Request Generator](https://github.com/juw12/tools/blob/main/tools/privacy_requests.py) |
+| 🌡️ Climate | [Heat Risk Planner](https://github.com/juw12/tools/blob/main/tools/heat_risk.py) · [Hidden Water Leak Detector](https://github.com/juw12/tools/blob/main/tools/water_leak.py) · [Energy Upgrade Payback](https://github.com/juw12/tools/blob/main/tools/energy_payback.py) |
+| 🤝 Care | [Caregiver Medication Planner](https://github.com/juw12/tools/blob/main/tools/med_refills.py) · [Unclaimed Benefits Screener](https://github.com/juw12/tools/blob/main/tools/benefit_finder.py) |
+| 🗄️ Future-proofing | [Digital Legacy Planner](https://github.com/juw12/tools/blob/main/tools/legacy_planner.py) · [Account Recovery Audit](https://github.com/juw12/tools/blob/main/tools/account_recovery_audit.py) · [3-2-1 Backup Auditor](https://github.com/juw12/tools/blob/main/tools/backup_check.py) · [Bit-Rot Guard](https://github.com/juw12/tools/blob/main/tools/bitrot_guard.py) · [File Format Rescue](https://github.com/juw12/tools/blob/main/tools/file_rescue.py) |
 
 </details>
 
