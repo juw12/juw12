@@ -2,11 +2,10 @@
 
 For every bullet between the BUILDING markers, look up the latest commit of the
 project's source (a whole repo, or a folder inside a monorepo such as
-juw12/projects/apps/haru), append a one-line activity status, and sort the list
-so the most recently active projects come first.
+juw12/projects/apps/haru) and append a one-line activity status.
 
-Hand-written text is never changed: only the status line (between <!--live-->
-markers) and the order of bullets are managed here. New bullets are picked up
+The order is hand-ranked (most solid first, grouped under tier headings) and is
+never changed here: only the status line (between <!--live--> markers) is managed. New bullets are picked up
 automatically as long as they contain a "Source" badge linking to GitHub.
 
 Every status line starts with two ways to read about the project:
@@ -32,7 +31,10 @@ from pathlib import Path
 README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- BUILDING:START -->"
 END = "<!-- BUILDING:END -->"
-CAPTION = "<sub><!--caption-->Sorted by latest commit and refreshed automatically every 2 hours.</sub>"
+CAPTION = (
+    "<sub><!--caption-->Ranked by how solid each project is (tests, releases, a working demo), "
+    "then by potential. Activity refreshes automatically every 2 hours.</sub>"
+)
 
 STATUS_RE = re.compile(r"<br><sub><!--live-->.*?<!--/live--></sub>")
 SOURCE_RE = re.compile(r"\[!\[Source\]\([^)]*\)\]\((https://github\.com/[^)\s]+)\)")
@@ -136,35 +138,31 @@ def update(readme_text: str, now: dt.datetime) -> str:
     head, rest = readme_text.split(START, 1)
     body, tail = rest.split(END, 1)
 
-    bullets = []
-    other_lines = []
-    for line in body.strip("\n").splitlines():
-        if line.startswith("- "):
-            bullets.append(STATUS_RE.sub("", line).rstrip())
-        elif line.strip() and "<!--caption-->" not in line:
-            other_lines.append(line)
+    # Keep every line in place (tier headings, blank lines, bullets); drop only the old caption.
+    lines = [line for line in body.strip("\n").splitlines() if "<!--caption-->" not in line]
+    while lines and not lines[0].strip():
+        lines.pop(0)
 
     landings = load_landings()
-    sources = []
-    links = []
-    for bullet in bullets:
-        match = SOURCE_RE.search(bullet)
-        sources.append(parse_source(match.group(1)) if match else None)
-        links.append(view_links(match.group(1) if match else None, landings))
-    unique_sources = sorted({source for source in sources if source}, key=str)
+    bullet_rows = []
+    for index, line in enumerate(lines):
+        if line.startswith("- "):
+            bullet = STATUS_RE.sub("", line).rstrip()
+            match = SOURCE_RE.search(bullet)
+            source = parse_source(match.group(1)) if match else None
+            link = view_links(match.group(1) if match else None, landings)
+            bullet_rows.append((index, bullet, source, link))
+
+    unique_sources = sorted({source for _, _, source, _ in bullet_rows if source}, key=str)
     # Look up all sources in parallel; any failure propagates and aborts the whole update.
     with ThreadPoolExecutor(max_workers=8) as pool:
         activity = dict(zip(unique_sources, pool.map(lambda source: fetch_activity(source, now), unique_sources)))
-    entries = [
-        (bullet, activity.get(source) if source else None, order, link)
-        for order, (bullet, source, link) in enumerate(zip(bullets, sources, links))
-    ]
 
-    # Most recent activity first; entries without a resolvable source keep their order at the end.
-    entries.sort(key=lambda entry: (entry[1] is None, -(entry[1]["date"].timestamp() if entry[1] else 0), entry[2]))
-    lines = [bullet + status_line(info, now, link) for bullet, info, _, link in entries]
+    for index, bullet, source, link in bullet_rows:
+        info = activity.get(source) if source else None
+        lines[index] = bullet + status_line(info, now, link)
 
-    section = "\n".join([START, CAPTION, *other_lines, "", *lines, END])
+    section = "\n".join([START, CAPTION, "", *lines, END])
     return head + section + tail
 
 

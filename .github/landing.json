@@ -1,4 +1,9 @@
 {
+ "https://github.com/juw12/projects/tree/main/apps/airiz-motor": {
+  "name": "Airiz Motor",
+  "landing": "https://juw12.github.io/p/airiz-motor/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/airiz-motor#readme"
+ },
  "https://github.com/juw12/projects/tree/main/apps/twin": {
   "name": "Twin",
   "landing": "https://juw12.github.io/p/twin/",
@@ -9,15 +14,15 @@
   "landing": "https://juw12.github.io/p/glow/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/glow#readme"
  },
+ "https://github.com/juw12/buddy": {
+  "name": "Buddy",
+  "landing": "https://juw12.github.io/buddy/",
+  "readme": "https://github.com/juw12/buddy#readme"
+ },
  "https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit": {
   "name": "Datum Bench",
   "landing": "https://juw12.github.io/p/datum-bench/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit#readme"
- },
- "https://github.com/juw12/projects/tree/main/apps/pushlab": {
-  "name": "Push Lab",
-  "landing": "https://juw12.github.io/p/pushlab/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/pushlab#readme"
  },
  "https://github.com/juw12/projects/tree/main/apps/mint": {
   "name": "Mint",
@@ -29,10 +34,10 @@
   "landing": "https://juw12.github.io/p/vitals/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/vitals#readme"
  },
- "https://github.com/juw12/portfolio/tree/main/game/townsquare": {
-  "name": "Townsquare 3D",
-  "landing": "https://juw12.github.io/p/townsquare-3d/",
-  "readme": "https://github.com/juw12/portfolio/tree/main/game/townsquare#readme"
+ "https://github.com/juw12/earlystar": {
+  "name": "EarlyStar",
+  "landing": "https://juw12.github.io/p/earlystar/",
+  "readme": "https://github.com/juw12/earlystar#readme"
  },
  "https://github.com/juw12/portfolio/tree/main/game": {
   "name": "Cozy Island",
@@ -44,15 +49,20 @@
   "landing": "https://juw12.github.io/p/vale/",
   "readme": "https://github.com/juw12/vale#readme"
  },
+ "https://github.com/juw12/projects/tree/main/apps/gamelib": {
+  "name": "Game Library",
+  "landing": "https://juw12.github.io/p/game-library/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/gamelib#readme"
+ },
+ "https://github.com/juw12/portfolio/tree/main/game/townsquare": {
+  "name": "Townsquare 3D",
+  "landing": "https://juw12.github.io/p/townsquare-3d/",
+  "readme": "https://github.com/juw12/portfolio/tree/main/game/townsquare#readme"
+ },
  "https://github.com/juw12/hearthwood": {
   "name": "Hearthwood",
   "landing": "https://juw12.github.io/p/hearthwood/",
   "readme": "https://github.com/juw12/hearthwood#readme"
- },
- "https://github.com/juw12/projects/tree/main/apps/airiz-motor": {
-  "name": "Airiz Motor",
-  "landing": "https://juw12.github.io/p/airiz-motor/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/airiz-motor#readme"
  },
  "https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad": {
   "name": "Datum CAD",
@@ -69,75 +79,110 @@
   "landing": "https://juw12.github.io/p/upwind/",
   "readme": "https://github.com/juw12/Upwind-Differencing-Scheme#readme"
  },
- "https://github.com/juw12/undanu": {
-  "name": "Undanu",
-  "landing": "https://juw12.github.io/p/undanu/",
-  "readme": "https://github.com/juw12/undanu#readme"
+ "https://github.com/juw12/projects/tree/main/apps/sync": {
+  "name": "Sync",
+  "landing": "https://juw12.github.io/p/sync/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/sync#readme"
  },
- "https://github.com/juw12/buddy": {
-  "name": "Buddy",
-  "landing": "https://juw12.github.io/buddy/",
-  "readme": "https://github.com/juw12/buddy#readme"
+ "https://github.com/juw12/projects/tree/main/apps/guangyao": {
+  "name": "Guang Yao Together 光耀同行",
+  "landing": "https://juw12.github.io/p/guang-yao-together/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/guangyao#readme"
  },
- "https://github.com/juw12/earlystar": {
-  "name": "EarlyStar",
-  "landing": "https://juw12.github.io/p/earlystar/",
-  "readme": "https://github.com/juw12/earlystar#readme"
+ "https://github.com/juw12/projects/tree/main/apps/peers": {
+  "name": "Peers",
+  "landing": "https://juw12.github.io/p/peers/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/peers#readme"
  },
- "https://github.com/juw12/skillmouse": {
-  "name": "SkillMouse",
-  "landing": "https://juw12.github.io/p/skillmouse/",
-  "readme": "https://github.com/juw12/skillmouse#readme"
- },
- "https://github.com/juw12/launchkit": {
-  "name": "LaunchKit",
-  "landing": "https://juw12.github.io/p/launchkit/",
-  "readme": "https://github.com/juw12/launchkit#readme"
- },
- "https://github.com/juw12/signals": {
-  "name": "Signals",
-  "landing": "https://juw12.github.io/p/signals/",
-  "readme": "https://github.com/juw12/signals#readme"
- },
- "https://github.com/juw12/shiphub": {
-  "name": "shiphub",
-  "landing": "https://juw12.github.io/p/shiphub/",
-  "readme": "https://github.com/juw12/shiphub#readme"
- },
- "https://github.com/juw12/jeda": {
-  "name": "Jeda",
-  "landing": "https://juw12.github.io/p/jeda/",
-  "readme": "https://github.com/juw12/jeda#readme"
- },
- "https://github.com/juw12/nudge": {
-  "name": "Nudge",
-  "landing": "https://juw12.github.io/p/nudge/",
-  "readme": "https://github.com/juw12/nudge#readme"
+ "https://github.com/juw12/atomize": {
+  "name": "Atomize",
+  "landing": "https://juw12.github.io/p/atomize/",
+  "readme": "https://github.com/juw12/atomize#readme"
  },
  "https://github.com/juw12/projects/tree/main/apps/haru": {
   "name": "Haru",
   "landing": "https://juw12.github.io/p/haru/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/haru#readme"
  },
+ "https://github.com/juw12/projects/tree/main/apps/lingua": {
+  "name": "Lingua",
+  "landing": "https://juw12.github.io/p/lingua/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/lingua#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/fade": {
+  "name": "Fade",
+  "landing": "https://juw12.github.io/p/fade/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/fade#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/sweep": {
+  "name": "Sweep",
+  "landing": "https://juw12.github.io/p/sweep/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/sweep#readme"
+ },
+ "https://github.com/juw12/nudge": {
+  "name": "Nudge",
+  "landing": "https://juw12.github.io/p/nudge/",
+  "readme": "https://github.com/juw12/nudge#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/hazel": {
+  "name": "Hazel",
+  "landing": "https://juw12.github.io/p/hazel/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/hazel#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/pips": {
+  "name": "Pips",
+  "landing": "https://juw12.github.io/p/pips/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/pips#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/orbis": {
+  "name": "Orbis",
+  "landing": "https://juw12.github.io/p/orbis/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/orbis#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/house-of-articles": {
+  "name": "House of Articles",
+  "landing": "https://juw12.github.io/p/house-of-articles/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/house-of-articles#readme"
+ },
+ "https://github.com/juw12/undanu": {
+  "name": "Undanu",
+  "landing": "https://juw12.github.io/p/undanu/",
+  "readme": "https://github.com/juw12/undanu#readme"
+ },
+ "https://github.com/juw12/jeda": {
+  "name": "Jeda",
+  "landing": "https://juw12.github.io/p/jeda/",
+  "readme": "https://github.com/juw12/jeda#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/pushlab": {
+  "name": "Push Lab",
+  "landing": "https://juw12.github.io/p/pushlab/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/pushlab#readme"
+ },
+ "https://github.com/juw12/morning-paper-web": {
+  "name": "The Morning Paper",
+  "landing": "https://juw12.github.io/p/morning-paper/",
+  "readme": "https://github.com/juw12/morning-paper-web#readme"
+ },
+ "https://github.com/juw12/steward": {
+  "name": "Steward",
+  "landing": "https://juw12.github.io/p/steward/",
+  "readme": "https://github.com/juw12/steward#readme"
+ },
+ "https://github.com/juw12/projects/tree/main/apps/rewind": {
+  "name": "Rewind",
+  "landing": "https://juw12.github.io/p/rewind/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/rewind#readme"
+ },
  "https://github.com/juw12/projects/tree/main/apps/scopeguard": {
   "name": "ScopeGuard",
   "landing": "https://juw12.github.io/p/scopeguard/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/scopeguard#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/crewcup": {
-  "name": "CrewCup",
-  "landing": "https://juw12.github.io/p/crewcup/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/crewcup#readme"
- },
- "https://github.com/juw12/projects/tree/main/respark": {
-  "name": "Titian",
-  "landing": "https://juw12.github.io/p/respark/",
-  "readme": "https://github.com/juw12/projects/tree/main/respark#readme"
- },
- "https://github.com/juw12/projects/tree/main/apps/kinibuka": {
-  "name": "KiniBuka",
-  "landing": "https://juw12.github.io/p/kinibuka/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/kinibuka#readme"
+ "https://github.com/juw12/projects/tree/main/apps/teman-sehat": {
+  "name": "Teman Sehat",
+  "landing": "https://juw12.github.io/p/teman-sehat/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/teman-sehat#readme"
  },
  "https://github.com/juw12/projects/tree/main/apps/sortie": {
   "name": "Sortie",
@@ -149,80 +194,60 @@
   "landing": "https://juw12.github.io/p/e-coder/",
   "readme": "https://github.com/juw12/projects/tree/main/agents-lab/E-coder#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/pips": {
-  "name": "Pips",
-  "landing": "https://juw12.github.io/p/pips/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/pips#readme"
+ "https://github.com/juw12/projects/tree/main/apps/crewcup": {
+  "name": "CrewCup",
+  "landing": "https://juw12.github.io/p/crewcup/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/crewcup#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/teman-sehat": {
-  "name": "Teman Sehat",
-  "landing": "https://juw12.github.io/p/teman-sehat/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/teman-sehat#readme"
+ "https://github.com/juw12/shiphub": {
+  "name": "shiphub",
+  "landing": "https://juw12.github.io/p/shiphub/",
+  "readme": "https://github.com/juw12/shiphub#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/hazel": {
-  "name": "Hazel",
-  "landing": "https://juw12.github.io/p/hazel/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/hazel#readme"
+ "https://github.com/juw12/launchkit": {
+  "name": "LaunchKit",
+  "landing": "https://juw12.github.io/p/launchkit/",
+  "readme": "https://github.com/juw12/launchkit#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/peers": {
-  "name": "Peers",
-  "landing": "https://juw12.github.io/p/peers/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/peers#readme"
+ "https://github.com/juw12/signals": {
+  "name": "Signals",
+  "landing": "https://juw12.github.io/p/signals/",
+  "readme": "https://github.com/juw12/signals#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/sweep": {
-  "name": "Sweep",
-  "landing": "https://juw12.github.io/p/sweep/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/sweep#readme"
+ "https://github.com/juw12/skillmouse": {
+  "name": "SkillMouse",
+  "landing": "https://juw12.github.io/p/skillmouse/",
+  "readme": "https://github.com/juw12/skillmouse#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/orbis": {
-  "name": "Orbis",
-  "landing": "https://juw12.github.io/p/orbis/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/orbis#readme"
+ "https://github.com/juw12/projects/tree/main/respark": {
+  "name": "Titian",
+  "landing": "https://juw12.github.io/p/respark/",
+  "readme": "https://github.com/juw12/projects/tree/main/respark#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/sync": {
-  "name": "Sync",
-  "landing": "https://juw12.github.io/p/sync/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/sync#readme"
+ "https://github.com/juw12/projects/tree/main/apps/kinibuka": {
+  "name": "KiniBuka",
+  "landing": "https://juw12.github.io/p/kinibuka/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/kinibuka#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/guangyao": {
-  "name": "Guang Yao Together 光耀同行",
-  "landing": "https://juw12.github.io/p/guang-yao-together/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/guangyao#readme"
+ "https://github.com/juw12/projects/tree/main/apps/plm-aml-approval": {
+  "name": "PLM AML Approval",
+  "landing": "https://juw12.github.io/p/plm-aml-approval/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/plm-aml-approval#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/house-of-articles": {
-  "name": "House of Articles",
-  "landing": "https://juw12.github.io/p/house-of-articles/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/house-of-articles#readme"
- },
- "https://github.com/juw12/steward": {
-  "name": "Steward",
-  "landing": "https://juw12.github.io/p/steward/",
-  "readme": "https://github.com/juw12/steward#readme"
- },
- "https://github.com/juw12/morning-paper-web": {
-  "name": "The Morning Paper",
-  "landing": "https://juw12.github.io/p/morning-paper/",
-  "readme": "https://github.com/juw12/morning-paper-web#readme"
- },
- "https://github.com/juw12/projects/tree/main/apps/rewind": {
-  "name": "Rewind",
-  "landing": "https://juw12.github.io/p/rewind/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/rewind#readme"
- },
- "https://github.com/juw12/atomize": {
-  "name": "Atomize",
-  "landing": "https://juw12.github.io/p/atomize/",
-  "readme": "https://github.com/juw12/atomize#readme"
- },
- "https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product": {
-  "name": "150 ChatGPT Prompts for Etsy Sellers",
-  "landing": "https://juw12.github.io/p/etsy-prompts/",
-  "readme": "https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product#readme"
+ "https://github.com/juw12/projects/tree/main/apps/outlook-archiver": {
+  "name": "Outlook Archiver",
+  "landing": "https://juw12.github.io/p/outlook-archiver/",
+  "readme": "https://github.com/juw12/projects/tree/main/apps/outlook-archiver#readme"
  },
  "https://github.com/juw12/loop-zero": {
   "name": "Handoff",
   "landing": "https://juw12.github.io/p/handoff/",
   "readme": "https://github.com/juw12/loop-zero#readme"
+ },
+ "https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product": {
+  "name": "150 ChatGPT Prompts for Etsy Sellers",
+  "landing": "https://juw12.github.io/p/etsy-prompts/",
+  "readme": "https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product#readme"
  },
  "https://github.com/juw12/tools": {
   "name": "Tools",
