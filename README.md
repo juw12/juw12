@@ -149,10 +149,10 @@
 </details>
 ## Tools
 
-<sub>Small, local, private tools for underrated problems. Python standard library only, no accounts, every tool has a self-test. <a href="https://juw12.github.io/p/tools/">✨ Landing page</a> · <a href="https://github.com/juw12/tools#readme">📖 README &amp; docs</a></sub>
-
 <details open>
 <summary><b>22 tools</b> in <a href="https://github.com/juw12/tools">juw12/tools</a>, plus a factory to build more (<code>python3 toolbox.py new &lt;name&gt;</code>)</summary>
+
+<sub>Small, local and private: Python standard library only, no accounts, every tool has a self-test.</sub>
 
 #### 💸 Money (5)
 
@@ -198,6 +198,8 @@
 
 <details open>
 <summary><b>10 agent skills</b> in <a href="https://github.com/juw12/skills">juw12/skills</a>: plain <code>SKILL.md</code> files for Claude Code, OpenCode, Codex and <a href="https://github.com/juw12/skillmouse">SkillMouse</a></summary>
+
+<sub>Agents that verify instead of claiming: they run the checks, report honestly and stop when they should.</sub>
 
 #### 🔁 Workflow: verify instead of claim (7)
 
@@ -279,10 +281,15 @@
   </tr>
 </table>
 
-<sub><b>Workplace automation</b>: small tools I use in the R&D day job.</sub>
+<details open>
+<summary><b>2 workplace automations</b>: small tools I use in the R&amp;D day job</summary>
+
+#### 🏭 R&D day job (2)
 
 - **[PLM AML Approval](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval): Python + Playwright tool that walks a Windchill-based PLM part-approval (AML) workflow in Edge: it searches the part, starts the workflow, uploads the approval documents, fills the form, adds the reviewer, verifies every field and stops before Submit so a person makes the final check.<br><sub>✨ [Landing page](https://juw12.github.io/p/plm-aml-approval/) · 📖 [README](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval#readme)</sub>
 - **[Outlook Archiver](https://github.com/juw12/projects/tree/main/apps/outlook-archiver)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/outlook-archiver): A small Windows daemon that keeps Outlook's Inbox and Sent Items empty by moving every message into an Archives PST, while logging each one and showing a desktop toast so nothing is missed.<br><sub>✨ [Landing page](https://juw12.github.io/p/outlook-archiver/) · 📖 [README](https://github.com/juw12/projects/tree/main/apps/outlook-archiver#readme)</sub>
+
+</details>
 
 ## Archive
 
