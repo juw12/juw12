@@ -253,5 +253,10 @@
   "name": "Tools",
   "landing": "https://juw12.github.io/p/tools/",
   "readme": "https://github.com/juw12/tools#readme"
+ },
+ "https://github.com/juw12/cairn": {
+  "name": "Cairn",
+  "landing": "https://juw12.github.io/p/cairn/",
+  "readme": "https://github.com/juw12/cairn#readme"
  }
 }
