@@ -11,6 +11,7 @@
   <a href="https://juwenlie.pages.dev/"><b>Portfolio</b></a> ·
   <a href="https://linkedin.com/in/juwenlie"><b>LinkedIn</b></a> ·
   <a href="mailto:juwen12006@gmail.com"><b>Email</b></a> ·
+  <a href="#now"><b>Now</b></a> ·
   <a href="#featured">Featured</a> ·
   <a href="#building">Building</a> ·
   <a href="#tools">Tools</a> ·
@@ -42,6 +43,25 @@
     <td width="33%" valign="top">
       <b>Built like hardware</b><br>
       Test suites, versioned releases and an engineer's habit of verifying before shipping.
+    </td>
+  </tr>
+</table>
+
+## Now
+
+<sub>Out of everything below, these are the two I'm turning into companies. Looking for early design partners.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/buddy/">Buddy for factories</a></b>: walks new engineers through clunky PLM, SRM and ERP screens, click by click, or clicks for them. No guides to write, runs fully on-prem, and stops to ask at the judgment calls where new hires usually go wrong.<br>
+      <sub>🤝 <b>Wanted:</b> manufacturing teams onboarding new engineers or buyers, for a free pilot · <a href="mailto:juwen12006@gmail.com?subject=Buddy%20pilot">Email me</a> · <a href="https://github.com/juw12/buddy#readme">📖 README</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/juw12/steward"><img src="media/steward.jpg" alt="Steward" width="100%"></a><br>
+      <b><a href="https://github.com/juw12/steward">Steward</a></b>: keeps your customer-facing AI chatbot on its job and shows what off-task use costs. A drop-in, OpenAI-compatible proxy that politely redirects curious drift and blocks injection, with cost per feature.<br>
+      <sub>🤝 <b>Wanted:</b> software teams running a support chatbot, for a free 7-day shadow audit (log only, changes nothing) · <a href="mailto:juwen12006@gmail.com?subject=Steward%20audit">Email me</a> · <a href="https://github.com/juw12/steward#readme">📖 README</a></sub>
     </td>
   </tr>
 </table>
