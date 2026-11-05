@@ -147,8 +147,10 @@
 <!-- BUILDING:END -->
 
 </details>
-## Tools and agent skills
+
 <a name="tools"></a>
+
+## Tools and agent skills
 
 <details>
 <summary><b>22 tools</b> in <a href="https://github.com/juw12/tools">juw12/tools</a>: small, local and private, Python standard library only</summary>
