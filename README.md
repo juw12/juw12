@@ -11,7 +11,6 @@
   <a href="https://juwenlie.pages.dev/"><b>Portfolio</b></a> ·
   <a href="https://linkedin.com/in/juwenlie"><b>LinkedIn</b></a> ·
   <a href="mailto:juwen12006@gmail.com"><b>Email</b></a> ·
-  <a href="#now"><b>Now</b></a> ·
   <a href="#featured">Featured</a> ·
   <a href="#building">Building</a> ·
   <a href="#tools">Tools</a> ·
@@ -47,25 +46,6 @@
   </tr>
 </table>
 
-## Now
-
-<sub>Out of everything below, these are the two I'm turning into companies. Looking for early design partners.</sub>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/buddy/">Buddy for factories</a></b>: walks new engineers through clunky PLM, SRM and ERP screens, click by click, or clicks for them. No guides to write, runs fully on-prem, and stops to ask at the judgment calls where new hires usually go wrong.<br>
-      <sub>🤝 <b>Wanted:</b> manufacturing teams onboarding new engineers or buyers, for a free pilot · <a href="mailto:juwen12006@gmail.com?subject=Buddy%20pilot">Email me</a> · <a href="https://github.com/juw12/buddy#readme">📖 README</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/juw12/steward"><img src="media/steward.jpg" alt="Steward" width="100%"></a><br>
-      <b><a href="https://github.com/juw12/steward">Steward</a></b>: keeps your customer-facing AI chatbot on its job and shows what off-task use costs. A drop-in, OpenAI-compatible proxy that politely redirects curious drift and blocks injection, with cost per feature.<br>
-      <sub>🤝 <b>Wanted:</b> software teams running a support chatbot, for a free 7-day shadow audit (log only, changes nothing) · <a href="mailto:juwen12006@gmail.com?subject=Steward%20audit">Email me</a> · <a href="https://github.com/juw12/steward#readme">📖 README</a></sub>
-    </td>
-  </tr>
-</table>
-
 ## Featured
 
 <sub>Ranked by how solid each project is: test suites, shipped releases and downloads, a working live demo and commit history. Click any card to open it.</sub>
@@ -91,7 +71,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Hold Ctrl+Alt+Space, ask about anything on screen, and it answers out loud and points at it. Free brain out of the box.<br>
+      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Walks new factory engineers through clunky PLM, SRM and ERP screens, click by click, or clicks for them. No guides to write, can run fully on local models, and asks before risky actions.<br>
       <sub><a href="https://github.com/juw12/buddy/releases/latest">⬇ Download</a> · <a href="https://juw12.github.io/buddy/">✨ Landing page</a> · <a href="https://github.com/juw12/buddy#readme">📖 README</a></sub>
     </td>
   </tr>
@@ -151,7 +131,7 @@
 
 #### 🌱 Promising: early, with real potential (13)
 
-- **[Steward](https://github.com/juw12/steward)** [![Source](https://img.shields.io/badge/source-juw12/steward-24292f?style=flat&logo=github)](https://github.com/juw12/steward) [![new](https://img.shields.io/badge/new-WIP-brightgreen?style=flat)](https://github.com/juw12/steward): A drop-in governance layer that keeps embedded AI on-mission. It detects off-task use, deflects curious drift, blocks hostile prompt injection and attributes cost, with an audit log and a Next.js dashboard. Python and TypeScript SDKs plus an OpenAI-compatible proxy.<br><sub><!--live-->✨ [Landing page](https://juw12.github.io/p/steward/) · 📖 [README](https://github.com/juw12/steward#readme) · 🟢 Updated Nov 4 · 4 commits this week · latest: [License: MIT everywhere: README License section, license = MIT in 4 pac…](https://github.com/juw12/steward/commit/61482aac6c83ddf6ede4e5bc8cffae45755c4e59)<!--/live--></sub>
+- **[Steward](https://github.com/juw12/steward)** [![Source](https://img.shields.io/badge/source-juw12/steward-24292f?style=flat&logo=github)](https://github.com/juw12/steward) [![new](https://img.shields.io/badge/new-WIP-brightgreen?style=flat)](https://github.com/juw12/steward): Keeps your customer-facing AI chatbot on its job and shows what off-task use costs. A drop-in, OpenAI-compatible proxy that politely redirects curious drift, blocks prompt injection and logs cost per feature, with an audit log and dashboard. Python and TypeScript SDKs.<br><sub><!--live-->✨ [Landing page](https://juw12.github.io/p/steward/) · 📖 [README](https://github.com/juw12/steward#readme) · 🟢 Updated Nov 4 · 4 commits this week · latest: [License: MIT everywhere: README License section, license = MIT in 4 pac…](https://github.com/juw12/steward/commit/61482aac6c83ddf6ede4e5bc8cffae45755c4e59)<!--/live--></sub>
 - **[Rewind](https://juw12.github.io/projects/rewind/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/rewind) [![new](https://img.shields.io/badge/new-WIP-brightgreen?style=flat)](https://juw12.github.io/projects/rewind/): A community archive for old TV series that are hard to find on today's streaming platforms. Share memories and quotes, keep a personal shelf and track where a show can still be watched. Runs in any browser and installs on phones.<br><sub><!--live-->✨ [Landing page](https://juw12.github.io/p/rewind/) · 📖 [README](https://github.com/juw12/projects/tree/main/apps/rewind#readme) · 🟡 Updated Nov 2 · 1 commit this week · latest: [rewind: add Rewind (community archive for old TV series missing from st…](https://github.com/juw12/projects/commit/749325ab8966c7356a8edaa622b0a4f62f9fe812)<!--/live--></sub>
 - **[ScopeGuard](https://juw12.github.io/projects/scopeguard/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/scopeguard): Keeps a business AI assistant on its mission: allows on-topic requests, steers related ones back, redirects off-topic use without calling the LLM and blocks jailbreaks. Dashboard shows LLM cost avoided and what users really want; runs in the browser, with a self-hosted Python server for production.<br><sub><!--live-->✨ [Landing page](https://juw12.github.io/p/scopeguard/) · 📖 [README](https://github.com/juw12/projects/tree/main/apps/scopeguard#readme) · 🟢 Updated Nov 3 · 2 commits this week · latest: [docs: Filee-style hero for every app README (banner, live demo, downloa…](https://github.com/juw12/projects/commit/4bcc1bdd5ae1b81ff2ee869aa72ca5499eff52f8)<!--/live--></sub>
 - **[Teman Sehat](https://juw12.github.io/projects/teman-sehat/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/teman-sehat): GERD and acne lifestyle companion in English and Bahasa Indonesia: daily reminders, an after-meal timer, a symptom and trigger log, diet and fitness without fasting, and acne care with a skin routine.<br><sub><!--live-->✨ [Landing page](https://juw12.github.io/p/teman-sehat/) · 📖 [README](https://github.com/juw12/projects/tree/main/apps/teman-sehat#readme) · 🟢 Updated Nov 4 · 3 commits this week · latest: [License: MIT everywhere: README License section, license = MIT in 15 pa…](https://github.com/juw12/projects/commit/511fa989d887976304e3e5c4236a1362ccdb13d5)<!--/live--></sub>
