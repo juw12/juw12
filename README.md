@@ -12,14 +12,15 @@
   <a href="https://linkedin.com/in/juwenlie"><b>LinkedIn</b></a> ·
   <a href="mailto:juwen12006@gmail.com"><b>Email</b></a> ·
   <a href="#featured">Featured</a> ·
+  <a href="#engineering">Engineering</a> ·
   <a href="#building">Building</a> ·
   <a href="#tools">Tools</a> ·
   <a href="#games">Games</a> ·
-  <a href="#engineering">Engineering</a> ·
   <a href="https://juw12.github.io/p/"><b>All landing pages</b></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/juw12/projects/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/juw12/projects/ci.yml?branch=main&label=CI%20tests&style=flat&labelColor=24292f" alt="Monorepo CI tests"></a>
   <a href="https://github.com/juw12/projects"><img src="https://img.shields.io/github/last-commit/juw12/projects?label=last%20shipped&style=flat&labelColor=24292f&color=0969da" alt="Last commit to juw12/projects"></a>
   <a href="https://github.com/juw12/projects/releases"><img src="https://img.shields.io/github/downloads/juw12/projects/total?label=release%20downloads&style=flat&labelColor=24292f&color=0969da" alt="Release downloads"></a>
   <a href="https://juw12.github.io/p/"><img src="https://img.shields.io/badge/public%20projects-50%2B-0969da?style=flat&labelColor=24292f&color=0969da" alt="50+ public projects"></a>
@@ -38,70 +39,106 @@
     </td>
     <td width="33%" valign="top">
       <b>Built like hardware</b><br>
-      Test suites, versioned releases and an engineer's habit of verifying before shipping.
+      Test suites run in CI on every push (badge above) and releases are versioned: verify before shipping, like a DVT build.
     </td>
   </tr>
 </table>
 
 ## Featured
 
-<sub>Ranked by how solid each project is: test suites, shipped releases and downloads, a working live demo and commit history. Click any card to open it.</sub>
+<sub>Ranked by how solid each project is: test suites, shipped releases and downloads, a working live demo and commit history.</sub>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/airiz-motor/"><img src="media/airiz-motor.jpg" alt="Airiz Motor" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/airiz-motor/">Airiz Motor</a></b>: USB jog, remote control and camera by code, live device checks and a camera-based wobble test.<br>
-      <sub><a href="https://juw12.github.io/projects/airiz-motor/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/airiz-desktop-v1.11.25">Download</a> · <a href="https://juw12.github.io/p/airiz-motor/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/airiz-motor#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/airiz-motor/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/airiz-desktop-v1.11.25">Download</a> · <a href="https://juw12.github.io/p/airiz-motor/">Landing page</a> · 37 test files · <a href="https://github.com/juw12/projects/tree/main/apps/airiz-motor#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/twin/"><img src="media/twin.jpg" alt="Twin" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/twin/">Twin</a></b>: Invest and day-trade with a twin that replays 10,000 futures before you risk real money.<br>
-      <sub><a href="https://juw12.github.io/projects/twin/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/twin">Download</a> · <a href="https://juw12.github.io/p/twin/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/twin#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/twin/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/twin">Download</a> · <a href="https://juw12.github.io/p/twin/">Landing page</a> · 135 test files · <a href="https://github.com/juw12/projects/tree/main/apps/twin#readme">README</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/glow/"><img src="media/glow.jpg" alt="Glow" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/glow/">Glow</a></b>: Four AI apps on one free account, in 4 languages. No API keys, and it keeps working offline.<br>
-      <sub><a href="https://juw12.github.io/projects/glow/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/glow-windows">Download</a> · <a href="https://juw12.github.io/p/glow/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/glow#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/glow/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/glow-windows">Download</a> · <a href="https://juw12.github.io/p/glow/">Landing page</a> · 26 test files · <a href="https://github.com/juw12/projects/tree/main/apps/glow#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
       <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Runs on local models and asks before risky actions.<br>
-      <sub><a href="https://github.com/juw12/buddy/releases/latest">Download</a> · <a href="https://juw12.github.io/buddy/">Landing page</a> · <a href="https://github.com/juw12/buddy#readme">README</a></sub>
+      <sub><a href="https://github.com/juw12/buddy/releases/latest">Download</a> · <a href="https://juw12.github.io/buddy/">Landing page</a> · 11 test files · <a href="https://github.com/juw12/buddy#readme">README</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/me-rd-toolkit/index.html"><img src="media/datum-bench.jpg" alt="Datum Bench" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/me-rd-toolkit/index.html">Datum Bench</a></b>: NPI task flow, review checklists, an issue log and 11 engineering calculators in one place.<br>
-      <sub><a href="https://juw12.github.io/projects/me-rd-toolkit/index.html">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/me-rd-toolkit">Download</a> · <a href="https://juw12.github.io/p/datum-bench/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/me-rd-toolkit/index.html">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/me-rd-toolkit">Download</a> · <a href="https://juw12.github.io/p/datum-bench/">Landing page</a> · 11 test files · <a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/mint/web.html"><img src="media/mint.jpg" alt="Mint" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/mint/web.html">Mint</a></b>: Synced on every device, with expenses you log by texting Mint on WhatsApp.<br>
-      <sub><a href="https://juw12.github.io/projects/mint/web.html">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/mint">Download</a> · <a href="https://juw12.github.io/p/mint/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/mint#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/mint/web.html">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/mint">Download</a> · <a href="https://juw12.github.io/p/mint/">Landing page</a> · 8 test files · <a href="https://github.com/juw12/projects/tree/main/apps/mint#readme">README</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/vitals/index.html"><img src="media/vitals.jpg" alt="Vitals" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/vitals/index.html">Vitals</a></b>: Cleans storage you can undo, forecasts battery wear and finds what drains your device.<br>
-      <sub><a href="https://juw12.github.io/projects/vitals/index.html">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/vitals">Download</a> · <a href="https://juw12.github.io/p/vitals/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/vitals#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/vitals/index.html">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/vitals">Download</a> · <a href="https://juw12.github.io/p/vitals/">Landing page</a> · 6 test files · <a href="https://github.com/juw12/projects/tree/main/apps/vitals#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/earlystar/"><img src="media/earlystar.jpg" alt="EarlyStar" width="100%"></a><br>
       <b><a href="https://juw12.github.io/earlystar/">EarlyStar</a></b>: Find GitHub repos before they trend, ranked by the stars they actually gained, with real activity next to the hype.<br>
-      <sub><a href="https://juw12.github.io/earlystar/">Live demo</a> · <a href="https://github.com/juw12/earlystar/releases/latest">Download</a> · <a href="https://juw12.github.io/p/earlystar/">Landing page</a> · <a href="https://github.com/juw12/earlystar#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/earlystar/">Live demo</a> · <a href="https://github.com/juw12/earlystar/releases/latest">Download</a> · <a href="https://juw12.github.io/p/earlystar/">Landing page</a> · 4 test files · <a href="https://github.com/juw12/earlystar#readme">README</a></sub>
     </td>
   </tr>
 </table>
 
+## Engineering
+
+<sub>Where the day job meets the side projects: CAD automation, CFD studies and the small tools I use in R&amp;D.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad"><img src="media/datum-cad.jpg" alt="Datum CAD" width="100%"></a><br>
+      <b><a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad">Datum CAD</a></b>: A PRD plus six reference photos becomes a validated STEP solid, with an STL preview.<br>
+      <sub><a href="https://juw12.github.io/p/datum-cad/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad#readme">README</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/juw12/Explicit-Maccormack-Method"><img src="media/maccormack.jpg" alt="Explicit MacCormack Method" width="100%"></a><br>
+      <b><a href="https://github.com/juw12/Explicit-Maccormack-Method">Explicit MacCormack Method</a></b>: A computational fluid dynamics study of a predictor-corrector scheme, with plotted results.<br>
+      <sub><a href="https://juw12.github.io/p/maccormack/">Landing page</a> · <a href="https://github.com/juw12/Explicit-Maccormack-Method#readme">README</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/juw12/Upwind-Differencing-Scheme"><img src="media/upwind.jpg" alt="Upwind Differencing Scheme" width="100%"></a><br>
+      <b><a href="https://github.com/juw12/Upwind-Differencing-Scheme">Upwind Differencing Scheme</a></b>: A computational fluid dynamics study of upwind differencing, with plotted results.<br>
+      <sub><a href="https://juw12.github.io/p/upwind/">Landing page</a> · <a href="https://github.com/juw12/Upwind-Differencing-Scheme#readme">README</a></sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>2 workplace automations</b>: small tools I use in the R&amp;D day job</summary>
+
+
+- **[PLM AML Approval](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval): Python and Playwright tool that walks a Windchill-based PLM part-approval (AML) workflow end to end, verifies every field and stops before Submit so a person makes the final check.<br><sub>[Landing page](https://juw12.github.io/p/plm-aml-approval/) · [README](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval#readme)</sub>
+- **[Outlook Archiver](https://github.com/juw12/projects/tree/main/apps/outlook-archiver)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/outlook-archiver): A small Windows daemon that keeps Outlook's Inbox and Sent Items empty by moving every message into an Archives PST, while logging each one and showing a desktop toast so nothing is missed.<br><sub>[Landing page](https://juw12.github.io/p/outlook-archiver/) · [README](https://github.com/juw12/projects/tree/main/apps/outlook-archiver#readme)</sub>
+
+</details>
+
 ## Building
 
 <details open>
-<summary><b>31 projects in progress</b>, ranked by how solid they are, then potential</summary>
+<summary><b>30 projects in progress</b>, ranked by how solid they are, then potential</summary>
 
 <!-- BUILDING:START -->
 <sub><!--caption-->Ranked by how solid each project is (tests, releases, a working demo), then by potential. Activity refreshes automatically every 2 hours.</sub>
@@ -128,7 +165,7 @@
 - **[The Morning Paper](https://juw12.github.io/morning-paper-web/)** [![Source](https://img.shields.io/badge/source-juw12/morning--paper--web-24292f?style=flat&logo=github)](https://github.com/juw12/morning-paper-web) [![new](https://img.shields.io/badge/new-WIP-0969da?style=flat&labelColor=24292f)](https://juw12.github.io/morning-paper-web/): A morning newspaper for markets, AI, chips, robotics and space: merged stories with an AI brief and a "why it matters" line, plus a stock desk with live prices and alerts synced across devices.<br><sub><!--live-->[Landing page](https://juw12.github.io/p/morning-paper/) · [README](https://github.com/juw12/morning-paper-web#readme) · Updated [Nov 5](https://github.com/juw12/morning-paper-web/commit/ff8922c735ab1c5ba101df861302350aca4b0923) · 42 commits this week<!--/live--></sub>
 
 <details>
-<summary><b>Promising: early, with real potential (13)</b></summary>
+<summary><b>Promising: early, with real potential (12)</b></summary>
 
 - **[Steward](https://juw12.github.io/steward/)** [![Source](https://img.shields.io/badge/source-juw12/steward-24292f?style=flat&logo=github)](https://github.com/juw12/steward) [![new](https://img.shields.io/badge/new-WIP-0969da?style=flat&labelColor=24292f)](https://github.com/juw12/steward): An OpenAI-compatible proxy that keeps a customer-facing chatbot on task: redirects drift, blocks prompt injection and logs cost per feature. Python and TypeScript SDKs and a [live playground](https://juw12.github.io/steward/).<br><sub><!--live-->[Landing page](https://juw12.github.io/p/steward/) · [README](https://github.com/juw12/steward#readme) · Updated [Nov 5](https://github.com/juw12/steward/commit/1d9459302035ee263354a569b2948ef270ca09b7) · 7 commits this week<!--/live--></sub>
 - **[Rewind](https://juw12.github.io/projects/rewind/)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/rewind) [![new](https://img.shields.io/badge/new-WIP-0969da?style=flat&labelColor=24292f)](https://juw12.github.io/projects/rewind/): A community archive for old TV series missing from today's streaming services: memories, quotes, a personal shelf and where each show can still be watched.<br><sub><!--live-->[Landing page](https://juw12.github.io/p/rewind/) · [README](https://github.com/juw12/projects/tree/main/apps/rewind#readme) · Updated [Nov 2](https://github.com/juw12/projects/commit/809451c3f2fed585038b5824a9fed424caf1aa19) · 1 commit this week<!--/live--></sub>
@@ -258,40 +295,6 @@
     <td width="50%" valign="top"></td>
   </tr>
 </table>
-
-## Engineering
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad"><img src="media/datum-cad.jpg" alt="Datum CAD" width="100%"></a><br>
-      <b><a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad">Datum CAD</a></b>: A PRD plus six reference photos becomes a validated STEP solid, with an STL preview.<br>
-      <sub><a href="https://juw12.github.io/p/datum-cad/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad#readme">README</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/juw12/Explicit-Maccormack-Method"><img src="media/maccormack.jpg" alt="Explicit MacCormack Method" width="100%"></a><br>
-      <b><a href="https://github.com/juw12/Explicit-Maccormack-Method">Explicit MacCormack Method</a></b>: A computational fluid dynamics study of a predictor-corrector scheme, with plotted results.<br>
-      <sub><a href="https://juw12.github.io/p/maccormack/">Landing page</a> · <a href="https://github.com/juw12/Explicit-Maccormack-Method#readme">README</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/juw12/Upwind-Differencing-Scheme"><img src="media/upwind.jpg" alt="Upwind Differencing Scheme" width="100%"></a><br>
-      <b><a href="https://github.com/juw12/Upwind-Differencing-Scheme">Upwind Differencing Scheme</a></b>: A computational fluid dynamics study of upwind differencing, with plotted results.<br>
-      <sub><a href="https://juw12.github.io/p/upwind/">Landing page</a> · <a href="https://github.com/juw12/Upwind-Differencing-Scheme#readme">README</a></sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><b>2 workplace automations</b>: small tools I use in the R&amp;D day job</summary>
-
-
-- **[PLM AML Approval](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval): Python and Playwright tool that walks a Windchill-based PLM part-approval (AML) workflow end to end, verifies every field and stops before Submit so a person makes the final check.<br><sub>[Landing page](https://juw12.github.io/p/plm-aml-approval/) · [README](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval#readme)</sub>
-- **[Outlook Archiver](https://github.com/juw12/projects/tree/main/apps/outlook-archiver)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/outlook-archiver): A small Windows daemon that keeps Outlook's Inbox and Sent Items empty by moving every message into an Archives PST, while logging each one and showing a desktop toast so nothing is missed.<br><sub>[Landing page](https://juw12.github.io/p/outlook-archiver/) · [README](https://github.com/juw12/projects/tree/main/apps/outlook-archiver#readme)</sub>
-
-</details>
 
 ## Archive
 
