@@ -101,7 +101,7 @@
 
 ## Engineering
 
-<sub>Where the day job meets the side projects: CAD automation, CFD studies and the small tools I use in R&amp;D.</sub>
+<sub>Where the day job meets the side projects: CAD automation, CFD studies, a factory battery check and the small tools I use in R&amp;D.</sub>
 
 <table>
   <tr>
@@ -122,7 +122,11 @@
       <b><a href="https://github.com/juw12/Upwind-Differencing-Scheme">Upwind Differencing Scheme</a></b>: A computational fluid dynamics study of upwind differencing, with plotted results.<br>
       <sub><a href="https://juw12.github.io/p/upwind/">Landing page</a> · <a href="https://github.com/juw12/Upwind-Differencing-Scheme#readme">README</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/juw12/peakwise"><img src="media/peakwise.jpg" alt="Peakwise: Own your power. Example 4 MWh / 2 MW factory battery with a 6-year payback" width="100%"></a><br>
+      <b><a href="https://github.com/juw12/peakwise">Peakwise</a></b>: A neutral 60-second check of whether a battery pays back for a Taiwan factory, with the real Taipower tariff, the MOEA subsidy and a quote checker.<br>
+      <sub><a href="https://juw12.github.io/peakwise/">Live site</a> · <a href="https://github.com/juw12/peakwise#readme">README</a></sub>
+    </td>
   </tr>
 </table>
 
