@@ -298,5 +298,10 @@
     "name": "Meetline",
     "landing": "https://juw12.github.io/p/meetline/",
     "readme": "https://github.com/juw12/meetline#readme"
+  },
+  "https://github.com/juw12/founder-studio": {
+    "name": "Founder Studio",
+    "landing": "https://juw12.github.io/p/founder-studio/",
+    "readme": "https://github.com/juw12/founder-studio#readme"
   }
 }
