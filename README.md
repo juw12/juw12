@@ -212,6 +212,8 @@
 
 ## Tools and agent skills
 
+- **[precedent](https://juw12.github.io/p/precedent/)** [![Source](https://img.shields.io/badge/source-juw12/precedent-24292f?style=flat&logo=github)](https://github.com/juw12/precedent) [![new](https://img.shields.io/badge/new-v3.3-0969da?style=flat&labelColor=24292f)](https://github.com/juw12/precedent): Stops false "I can't"s and unchecked "done"s in AI coding agents. Before an agent gives up, it finds a past success in your own agents' history and sends the give-up back with it; before it claims done, it asks for a real check. Hooks in Claude Code, Codex CLI, Gemini CLI, OpenCode and GitHub Copilot CLI; MCP tools for Cursor, Windsurf, VS Code and Claude Desktop. 106 tests; the runtime needs only the Python standard library.<br><sub>[Landing page](https://juw12.github.io/p/precedent/) · [README](https://github.com/juw12/precedent#readme)</sub>
+
 <details>
 <summary><b>22 tools</b> in <a href="https://github.com/juw12/tools">juw12/tools</a>: small, local and private, Python standard library only</summary>
 
