@@ -97,6 +97,14 @@
       <sub><a href="https://juw12.github.io/earlystar/">Live demo</a> · <a href="https://github.com/juw12/earlystar/releases/latest">Download</a> · <a href="https://juw12.github.io/p/earlystar/">Landing page</a> · 4 test files · <a href="https://github.com/juw12/earlystar#readme">README</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/morning-paper-web/"><img src="media/morning-paper.jpg" alt="The Morning Paper" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/morning-paper-web/">The Morning Paper</a></b>: A morning newspaper for markets, AI and chips, robotics, space and tech. Stories from several outlets merged into one, the Brief on top, and a stock desk with live prices and alerts.<br>
+      <sub><a href="https://juw12.github.io/morning-paper-web/">Live paper</a> · <a href="https://juw12.github.io/p/morning-paper/">Landing page</a> · <a href="https://github.com/juw12/morning-paper-web#readme">README</a></sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Engineering
