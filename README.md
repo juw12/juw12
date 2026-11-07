@@ -318,7 +318,11 @@
       <b><a href="https://github.com/juw12/hearthwood">Hearthwood</a></b>: A third-person action-adventure prototype with dialogue, quests, inventory and NPC AI.<br>
       <sub><a href="https://juw12.github.io/p/hearthwood/">Landing page</a> · <a href="https://github.com/juw12/hearthwood#readme">README</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/teduh/"><img src="media/teduh.jpg" alt="Teduh" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/teduh/">Teduh</a></b>: A free, cozy solarpunk life sim on floating islands: farm, fish, craft, run your island on sun and wind, and build the sky village with friends. Works offline in any browser.<br>
+      <sub><a href="https://juw12.github.io/teduh/">Play</a> · <a href="https://juw12.github.io/p/teduh/">Landing page</a> · <a href="https://github.com/juw12/teduh#readme">README</a></sub>
+    </td>
   </tr>
 </table>
 
