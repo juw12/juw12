@@ -293,5 +293,10 @@
     "name": "Millennium Digest",
     "landing": "https://juw12.github.io/p/millennium-digest/",
     "readme": "https://github.com/juw12/millennium-digest#readme"
+  },
+  "https://github.com/juw12/meetline": {
+    "name": "Meetline",
+    "landing": "https://juw12.github.io/p/meetline/",
+    "readme": "https://github.com/juw12/meetline#readme"
   }
 }
