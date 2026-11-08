@@ -336,7 +336,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/mise/"><img src="media/mise.jpg" alt="Mise" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/mise/">Mise</a></b>: A quiet kitchen game with live-synthesised ASMR: cook 8 recipes at home at your own pace, or run a small restaurant as chef, server or owner, in first or third person.<br>
+      <b><a href="https://juw12.github.io/mise/">Mise</a></b>: A quiet kitchen game with live-synthesised ASMR (a different knife sound for every ingredient, tool-specific stirring, sizzle that follows the heat; best on headphones): cook 8 recipes at home at your own pace, or run a small restaurant as chef, server or owner, in first or third person.<br>
       <sub><a href="https://juw12.github.io/mise/">Play</a> · <a href="https://github.com/juw12/mise#readme">README</a></sub>
     </td>
   </tr>
