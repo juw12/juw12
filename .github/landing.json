@@ -308,5 +308,10 @@
     "name": "Nongkrong",
     "landing": "https://juw12.github.io/p/nongkrong/",
     "readme": "https://github.com/juw12/nongkrong#readme"
+  },
+  "https://github.com/juw12/lahap": {
+    "name": "Lahap",
+    "landing": "https://juw12.github.io/p/lahap/",
+    "readme": "https://github.com/juw12/lahap#readme"
   }
 }
