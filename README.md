@@ -338,6 +338,14 @@
       <sub><a href="https://juw12.github.io/mise/">Play</a> · <a href="https://github.com/juw12/mise#readme">README</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/riak/"><img src="media/riak.jpg" alt="Riak" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/riak/">Riak</a></b>: A cozy aquarium you look after a few minutes a day: real nitrogen-cycle water care, fishing in nine places, plants, breeding and a coral reef lab. Free, offline, English and Bahasa Indonesia.<br>
+      <sub><a href="https://juw12.github.io/riak/">Play</a> · <a href="https://juw12.github.io/p/riak/">Landing page</a> · <a href="https://github.com/juw12/riak#readme">README</a></sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Archive
