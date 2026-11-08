@@ -339,7 +339,11 @@
       <b><a href="https://juw12.github.io/bilas/">Bilas</a></b>: A quiet first-person 3D coin laundry with synthesized ASMR: feed the changer, wash, tumble dry, hang by the window and fold. Browser, installable on desktop and iPhone, Android APK.<br>
       <sub><a href="https://juw12.github.io/bilas/">Play</a> · <a href="https://juw12.github.io/p/bilas/">Landing page</a> · <a href="https://github.com/juw12/bilas/releases/tag/android">Android APK</a> · <a href="https://github.com/juw12/bilas#readme">README</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/mise/"><img src="media/mise.jpg" alt="Mise" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/mise/">Mise</a></b>: A quiet kitchen game with live-synthesised ASMR: cook 8 recipes at home at your own pace, or run a small restaurant as chef, server or owner, in first or third person.<br>
+      <sub><a href="https://juw12.github.io/mise/">Play</a> · <a href="https://github.com/juw12/mise#readme">README</a></sub>
+    </td>
   </tr>
 </table>
 
