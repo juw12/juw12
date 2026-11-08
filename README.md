@@ -136,6 +136,14 @@
       <sub><a href="https://juw12.github.io/peakwise/">Live site</a> · <a href="https://github.com/juw12/peakwise#readme">README</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/trunnion-topopt/"><img src="media/trunnion-topopt.jpg" alt="Trunnion TopOpt: topology-optimised A-axis upright for a 5-axis printer" width="100%"></a><br>
+      <b><a href="https://github.com/juw12/trunnion-topopt">Trunnion TopOpt</a></b>: A topology-optimised A-axis trunnion upright for a 5-axis 3D printer that stays stiff in every tilt direction and under belt pull, prints without supports, and is checked by fine-mesh FE.<br>
+      <sub><a href="https://juw12.github.io/trunnion-topopt/">Live site</a> · <a href="https://juw12.github.io/p/trunnion-topopt/">Landing page</a> · <a href="https://github.com/juw12/trunnion-topopt#readme">README</a></sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <details>
