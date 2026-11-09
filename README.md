@@ -296,7 +296,7 @@
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/portfolio/cozy-island/"><img src="media/cozy-island.jpg" alt="Cozy Island" width="100%"></a><br>
       <b><a href="https://juw12.github.io/portfolio/cozy-island/">Cozy Island</a></b>: A cozy 3D island for laptop workers: fish, garden, take tea-breathing breaks and rest your eyes, with Mochi the cat. Plays in the browser on desktop and phones (iPhone, Android), with one-tap back and activity switching, and a clean, professional interface: warm paper panels, one line-icon set, no emoji.<br>
-      <sub><a href="https://juw12.github.io/portfolio/cozy-island/">Play</a> · <a href="https://juw12.github.io/p/cozy-island/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/game#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/portfolio/cozy-island/">Play</a> · <a href="https://juw12.github.io/p/cozy-island/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/cozy-island#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/vale/"><img src="media/vale.jpg" alt="VALE" width="100%"></a><br>
@@ -311,9 +311,9 @@
       <sub><a href="https://juw12.github.io/projects/gamelib/">Play</a> · <a href="https://juw12.github.io/p/game-library/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/gamelib#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://juw12.github.io/portfolio/game/townsquare/"><img src="media/townsquare-3d.jpg" alt="Townsquare 3D" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/portfolio/game/townsquare/">Townsquare 3D</a></b>: A shared 3D town for phone and desktop browsers: claim land, run crops and workshops, trade at a market that follows supply and demand.<br>
-      <sub><a href="https://juw12.github.io/portfolio/game/townsquare/">Play</a> · <a href="https://juw12.github.io/p/townsquare-3d/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/game/townsquare#readme">README</a></sub>
+      <a href="https://juw12.github.io/portfolio/townsquare-3d/"><img src="media/townsquare-3d.jpg" alt="Townsquare 3D" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/portfolio/townsquare-3d/">Townsquare 3D</a></b>: A shared 3D town for phone and desktop browsers: claim land, run crops and workshops, trade at a market that follows supply and demand.<br>
+      <sub><a href="https://juw12.github.io/portfolio/townsquare-3d/">Play</a> · <a href="https://juw12.github.io/p/townsquare-3d/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/townsquare-3d#readme">README</a></sub>
     </td>
   </tr>
   <tr>
