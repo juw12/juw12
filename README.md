@@ -294,9 +294,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://juw12.github.io/portfolio/game/"><img src="media/cozy-island.jpg" alt="Cozy Island" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/portfolio/game/">Cozy Island</a></b>: A cozy 3D island for laptop workers: fish, garden, take tea-breathing breaks and rest your eyes, with Mochi the cat. Plays in the browser on desktop and phones (iPhone, Android), with one-tap back and activity switching, and a clean, professional interface: warm paper panels, one line-icon set, no emoji.<br>
-      <sub><a href="https://juw12.github.io/portfolio/game/">Play</a> · <a href="https://juw12.github.io/p/cozy-island/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/game#readme">README</a></sub>
+      <a href="https://juw12.github.io/portfolio/cozy-island/"><img src="media/cozy-island.jpg" alt="Cozy Island" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/portfolio/cozy-island/">Cozy Island</a></b>: A cozy 3D island for laptop workers: fish, garden, take tea-breathing breaks and rest your eyes, with Mochi the cat. Plays in the browser on desktop and phones (iPhone, Android), with one-tap back and activity switching, and a clean, professional interface: warm paper panels, one line-icon set, no emoji.<br>
+      <sub><a href="https://juw12.github.io/portfolio/cozy-island/">Play</a> · <a href="https://juw12.github.io/p/cozy-island/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/game#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/vale/"><img src="media/vale.jpg" alt="VALE" width="100%"></a><br>
