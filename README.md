@@ -324,7 +324,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/teduh/"><img src="media/teduh.jpg" alt="Teduh" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/teduh/">Teduh</a></b>: A free, cozy solarpunk life sim on floating islands: farm, fish, craft, run your island on sun and wind, and build the sky village with friends. Works offline in any browser.<br>
+      <b><a href="https://juw12.github.io/teduh/">Teduh</a></b>: A free, cozy solarpunk life sim on floating islands: farm, fish, craft, run your island on sun and wind, clear smog, rescue animals and build the sky village with friends. 44 islands, 64 crops, 30 fish, 123 animals and 1,070 recipes. Works offline in any browser.<br>
       <sub><a href="https://juw12.github.io/teduh/">Play</a> · <a href="https://juw12.github.io/p/teduh/">Landing page</a> · <a href="https://github.com/juw12/teduh#readme">README</a></sub>
     </td>
   </tr>
