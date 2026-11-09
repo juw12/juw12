@@ -343,7 +343,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/riak/"><img src="media/riak.jpg" alt="Riak" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/riak/">Riak</a></b>: A cozy aquarium you look after a few minutes a day: real nitrogen-cycle water care, flick-to-cast fishing in nine places with tournaments and quests, a greenhouse, breeding and a coral reef lab. Free, offline, English and Bahasa Indonesia.<br>
+      <b><a href="https://juw12.github.io/riak/">Riak</a></b>: A cozy aquarium you look after a few minutes a day: real nitrogen-cycle water care, 47 hand-drawn species, flick-to-cast fishing in nine illustrated places with tournaments and quests, a greenhouse, breeding and a coral reef lab. Free, offline, English and Bahasa Indonesia.<br>
       <sub><a href="https://juw12.github.io/riak/">Play</a> · <a href="https://juw12.github.io/p/riak/">Landing page</a> · <a href="https://github.com/juw12/riak#readme">README</a></sub>
     </td>
     <td width="50%" valign="top"></td>
