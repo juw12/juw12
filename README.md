@@ -313,7 +313,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/portfolio/townsquare-3d/"><img src="media/townsquare-3d.jpg" alt="Townsquare 3D" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/portfolio/townsquare-3d/">Townsquare 3D</a></b>: A shared 3D town for phone and desktop browsers: claim land, run crops and workshops, trade at a market that follows supply and demand.<br>
+      <b><a href="https://juw12.github.io/portfolio/townsquare-3d/">Townsquare 3D</a></b>: A shared 3D town for phone and desktop browsers: claim land, run crops and workshops, trade at a market that follows supply and demand. Clean interface: one line-icon set, no emoji.<br>
       <sub><a href="https://juw12.github.io/portfolio/townsquare-3d/">Play</a> · <a href="https://juw12.github.io/p/townsquare-3d/">Landing page</a> · <a href="https://github.com/juw12/portfolio/tree/main/townsquare-3d#readme">README</a></sub>
     </td>
   </tr>
