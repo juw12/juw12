@@ -289,7 +289,7 @@
 
 ## Games
 
-<sub>All six in one place: <a href="https://juw12.github.io/game/">juw12.github.io/game</a></sub>
+<sub>All eight in one place: <a href="https://juw12.github.io/game/">juw12.github.io/game</a></sub>
 
 <table>
   <tr>
