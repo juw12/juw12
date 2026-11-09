@@ -265,12 +265,13 @@
 </details>
 
 <details>
-<summary><b>10 agent skills</b> in <a href="https://github.com/juw12/skills">juw12/skills</a>: plain <code>SKILL.md</code> files for Claude Code, OpenCode, Codex and <a href="https://github.com/juw12/skillmouse">SkillMouse</a></summary>
+<summary><b>11 agent skills</b> in <a href="https://github.com/juw12/skills">juw12/skills</a>: plain <code>SKILL.md</code> files for Claude Code, OpenCode, Codex and <a href="https://github.com/juw12/skillmouse">SkillMouse</a></summary>
 
 <sub>Agents that verify instead of claiming: they run the checks, report honestly and stop when they should. See the <a href="https://github.com/juw12/skills#readme">README</a>; install with <code>git clone https://github.com/juw12/skills</code>.</sub>
 
-#### Workflow: verify instead of claim (7)
+#### Workflow: verify instead of claim (8)
 
+- **[hone](https://github.com/juw12/skills/blob/main/skills/hone/SKILL.md)**: Improve-until-done with full autonomy: the agent owns the task like a senior expert, never asks or gives up (3 genuinely different approaches before "blocked"), runs a frozen-rubric loop with a separate judge, keep-best and blind A/B checks, works a run queue until it is empty, and starts every final message with the reason it stopped. Successor of refine-loop.
 - **[refine-loop](https://github.com/juw12/skills/blob/main/skills/refine-loop/SKILL.md)**: Improve-until-done without babysitting: frozen rubric, baseline score, separate judge, keep-best, blind A/B check against score inflation and hard stop rules. Ships an objective self-checker.
 - **[harness](https://github.com/juw12/skills/blob/main/skills/harness/SKILL.md)**: Finds and actually runs a project's build, test and lint commands, and reports pass/fail truthfully.
 - **[heartbeat](https://github.com/juw12/skills/blob/main/skills/heartbeat/SKILL.md)**: A short, honest status of running jobs and services (servers, watchdogs, long tasks) that flags stalls.
