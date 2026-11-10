@@ -355,7 +355,7 @@
 <details>
 <summary>Prompt packs and product experiments kept on record</summary>
 
-- **[Handoff](https://github.com/juw12/loop-zero)** [![Source](https://img.shields.io/badge/source-juw12/loop--zero-24292f?style=flat&logo=github)](https://github.com/juw12/loop-zero): AI automation agency plus SaaS product for SMBs. Five Next.js apps, cold-outreach copy and a 14-day validation playbook.<br><sub>[Landing page](https://juw12.github.io/p/handoff/) · [README](https://github.com/juw12/loop-zero#readme)</sub>
+- **[Handoff](https://github.com/juw12/handoff)** [![Source](https://img.shields.io/badge/source-juw12/handoff-24292f?style=flat&logo=github)](https://github.com/juw12/handoff): AI automation agency plus SaaS product for SMBs. Five Next.js apps, cold-outreach copy and a 14-day validation playbook.<br><sub>[Landing page](https://juw12.github.io/p/handoff/) · [README](https://github.com/juw12/handoff#readme)</sub>
 - **[150 ChatGPT Prompts for Etsy Sellers](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product)**: 150 copy-paste prompts across 9 sections, packaged as a 6-phase workflow that writes an Etsy listing in 5 minutes. PDF + Notion template.<br><sub>[Landing page](https://juw12.github.io/p/etsy-prompts/) · [README](https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product#readme)</sub>
 
 </details>
