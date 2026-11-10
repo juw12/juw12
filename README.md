@@ -99,9 +99,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://juw12.github.io/morning-paper-web/"><img src="media/morning-paper.jpg" alt="Morrow in its Neo theme" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/morning-paper-web/">Morrow</a></b>: A morning newspaper for markets, AI and chips, robotics, space and tech. Stories from several outlets merged into one, the Brief on top, and a stock desk with live prices and alerts. Light, Dark and Neo themes.<br>
-      <sub><a href="https://juw12.github.io/morning-paper-web/">Live paper</a> · <a href="https://juw12.github.io/p/morning-paper/">Landing page</a> · <a href="https://github.com/juw12/morning-paper-web#readme">README</a></sub>
+      <a href="https://juw12.github.io/morrow/"><img src="media/morning-paper.jpg" alt="Morrow in its Neo theme" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/morrow/">Morrow</a></b>: A morning newspaper for markets, AI and chips, robotics, space and tech. Stories from several outlets merged into one, the Brief on top, and a stock desk with live prices and alerts. Light, Dark and Neo themes.<br>
+      <sub><a href="https://juw12.github.io/morrow/">Live paper</a> · <a href="https://juw12.github.io/p/morning-paper/">Landing page</a> · <a href="https://github.com/juw12/morrow#readme">README</a></sub>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -265,18 +265,25 @@
 </details>
 
 <details>
-<summary><b>10 agent skills</b> in <a href="https://github.com/juw12/skills">juw12/skills</a>: plain <code>SKILL.md</code> files for Claude Code, OpenCode, Codex and <a href="https://github.com/juw12/skillmouse">SkillMouse</a> (<a href="https://juw12.github.io/p/skills/">landing page</a>)</summary>
+<summary><b>14 agent skills</b> in <a href="https://github.com/juw12/skills">juw12/skills</a>: plain <code>SKILL.md</code> files for Claude Code, OpenCode, Codex and <a href="https://github.com/juw12/skillmouse">SkillMouse</a> (<a href="https://juw12.github.io/p/skills/">landing page</a>)</summary>
 
 <sub>Agents that verify instead of claiming: they run the checks, report honestly and stop when they should. See the <a href="https://github.com/juw12/skills#readme">README</a>; install with <code>git clone https://github.com/juw12/skills</code>.</sub>
 
-#### Workflow: verify instead of claim (7)
+#### Workflow: verify instead of claim (8)
 
-- **[refine-loop](https://github.com/juw12/skills/blob/main/skills/refine-loop/SKILL.md)**: Improve-until-done without babysitting: frozen rubric, baseline score, separate judge, keep-best, blind A/B check against score inflation and hard stop rules. Ships an objective self-checker.
+- **[hone](https://github.com/juw12/skills/blob/main/skills/hone/SKILL.md)**: `/hone`: improve-until-done with full autonomy. Frozen rubric, separate judge, objective checks over the judge, keep-best and blind pairwise checks; works a run queue until it is empty and ends with `Stopped: <reason>`. Successor of refine-loop.
+- **[refine-loop](https://github.com/juw12/skills/blob/main/skills/refine-loop/SKILL.md)**: The original loop, for agents that should ask before acting. Improve-until-done without babysitting: frozen rubric, baseline score, separate judge, keep-best, blind A/B check against score inflation and hard stop rules. Ships an objective self-checker.
+- **[ambitious-founder](https://github.com/juw12/skills/blob/main/skills/ambitious-founder/SKILL.md)**: `/be-ambitious` + `/founder`: raises any task (goal beyond the goal, expert depth, outside judge) and pressure-tests a business idea with a buyer panel, Van Westendorp pricing and unit economics, ending in a script-computed verdict.
 - **[harness](https://github.com/juw12/skills/blob/main/skills/harness/SKILL.md)**: Finds and actually runs a project's build, test and lint commands, and reports pass/fail truthfully.
 - **[heartbeat](https://github.com/juw12/skills/blob/main/skills/heartbeat/SKILL.md)**: A short, honest status of running jobs and services (servers, watchdogs, long tasks) that flags stalls.
 - **[delegator](https://github.com/juw12/skills/blob/main/skills/delegator/SKILL.md)**: Breaks a goal into small tasks, routes each to the best agent or skill, then combines the results.
 - **[soul](https://github.com/juw12/skills/blob/main/skills/soul/SKILL.md)**: Reviews drafts, docs and UI copy against a project's voice and principles, with minimal fixes.
 - **[memory-management](https://github.com/juw12/skills/blob/main/skills/memory-management/SKILL.md)**: Durable project memory (decisions, lessons, context) in an Obsidian vault, so it survives across sessions.
+
+#### Design and landing pages (3)
+
+- **[design](https://github.com/juw12/skills/blob/main/skills/design/SKILL.md)**: `/design`: improves an app's own UI in its repo against objective gates and screenshot review (tests must pass, shipped as a PR), then syncs the brand into its landing page.
+- **[project-landing](https://github.com/juw12/skills/blob/main/skills/project-landing/SKILL.md)**: Turns a project's README and repo into a README-faithful landing page at juw12.github.io/p/&lt;slug&gt;/ with its own look, a "How it's built" section from real repo facts, quality gates and a safe publish.
 - **[widgettheme](https://github.com/juw12/skills/blob/main/skills/widgettheme/SKILL.md)**: Applies "The Morning Paper" editorial design system: cream paper, ink black, newspaper red, serif headlines.
 
 #### Push Lab QA: real-phone push testing (3)
