@@ -99,9 +99,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://juw12.github.io/morrow/"><img src="media/morning-paper.jpg" alt="Morrow in its Neo theme" width="100%"></a><br>
+      <a href="https://juw12.github.io/morrow/"><img src="media/morrow.jpg" alt="Morrow in its Neo theme" width="100%"></a><br>
       <b><a href="https://juw12.github.io/morrow/">Morrow</a></b>: A morning newspaper for markets, AI and chips, robotics, space and tech. Stories from several outlets merged into one, the Brief on top, and a stock desk with live prices and alerts. Light, Dark and Neo themes.<br>
-      <sub><a href="https://juw12.github.io/morrow/">Live paper</a> · <a href="https://juw12.github.io/p/morning-paper/">Landing page</a> · <a href="https://github.com/juw12/morrow#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/morrow/">Live paper</a> · <a href="https://juw12.github.io/p/morrow/">Landing page</a> · <a href="https://github.com/juw12/morrow#readme">README</a></sub>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
