@@ -285,7 +285,7 @@
 
 - **[design](https://github.com/juw12/skills/blob/main/skills/design/SKILL.md)**: `/design`: improves an app's own UI in its repo against objective gates and screenshot review (tests must pass, shipped as a PR), then syncs the brand into its landing page.
 - **[project-landing](https://github.com/juw12/skills/blob/main/skills/project-landing/SKILL.md)**: Turns a project's README and repo into a README-faithful landing page at juw12.github.io/p/&lt;slug&gt;/ with its own look, a "How it's built" section from real repo facts, quality gates and a safe publish.
-- **[widgettheme](https://github.com/juw12/skills/blob/main/skills/widgettheme/SKILL.md)**: Applies "The Morning Paper" editorial design system: cream paper, ink black, newspaper red, serif headlines.
+- **[widgettheme](https://github.com/juw12/skills/blob/main/skills/widgettheme/SKILL.md)**: Applies the "Morrow" editorial design system: cream paper, ink black, newspaper red, serif headlines.
 
 #### Push Lab QA: real-phone push testing (3)
 
