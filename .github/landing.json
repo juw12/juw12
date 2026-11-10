@@ -388,5 +388,10 @@
   "name": "Jepret",
   "landing": "https://juw12.github.io/p/jepret/",
   "readme": "https://github.com/juw12/jepret#readme"
+ },
+ "https://github.com/juw12/inti": {
+  "name": "Inti",
+  "landing": "https://juw12.github.io/p/inti/",
+  "readme": "https://github.com/juw12/inti#readme"
  }
 }
