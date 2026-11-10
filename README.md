@@ -69,7 +69,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Runs on local models and asks before risky actions.<br>
+      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Types what you say into any app, offline (4.9% word errors vs 37% for Windows speech). Runs on local models and asks before risky actions.<br>
       <sub><a href="https://github.com/juw12/buddy/releases/latest">Download</a> · <a href="https://juw12.github.io/buddy/">Landing page</a> · 11 test files · <a href="https://github.com/juw12/buddy#readme">README</a></sub>
     </td>
   </tr>
