@@ -368,5 +368,25 @@
   "name": "CFD Wave Schemes",
   "landing": "https://juw12.github.io/p/cfd-wave-schemes/",
   "readme": "https://github.com/juw12/cfd-wave-schemes#readme"
+ },
+ "https://github.com/juw12/hexbane": {
+  "name": "Hexbane",
+  "landing": "https://juw12.github.io/p/hexbane/",
+  "readme": "https://github.com/juw12/hexbane#readme"
+ },
+ "https://github.com/juw12/reda": {
+  "name": "Reda",
+  "landing": "https://juw12.github.io/p/reda/",
+  "readme": "https://github.com/juw12/reda#readme"
+ },
+ "https://github.com/juw12/ruang": {
+  "name": "Ruang",
+  "landing": "https://juw12.github.io/p/ruang/",
+  "readme": "https://github.com/juw12/ruang#readme"
+ },
+ "https://github.com/juw12/jepret": {
+  "name": "Jepret",
+  "landing": "https://juw12.github.io/p/jepret/",
+  "readme": "https://github.com/juw12/jepret#readme"
  }
 }
