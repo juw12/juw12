@@ -69,16 +69,6 @@
   "landing": "https://juw12.github.io/p/datum-cad/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/me-rd-toolkit/photo2cad#readme"
  },
- "https://github.com/juw12/explicit-maccormack-method": {
-  "name": "Explicit MacCormack Method",
-  "landing": "https://juw12.github.io/p/maccormack/",
-  "readme": "https://github.com/juw12/Explicit-Maccormack-Method#readme"
- },
- "https://github.com/juw12/upwind-differencing-scheme": {
-  "name": "Upwind Differencing Scheme",
-  "landing": "https://juw12.github.io/p/upwind/",
-  "readme": "https://github.com/juw12/Upwind-Differencing-Scheme#readme"
- },
  "https://github.com/juw12/projects/tree/main/apps/sync": {
   "name": "Sync",
   "landing": "https://juw12.github.io/p/sync/",
@@ -239,10 +229,10 @@
   "landing": "https://juw12.github.io/p/outlook-archiver/",
   "readme": "https://github.com/juw12/projects/tree/main/apps/outlook-archiver#readme"
  },
- "https://github.com/juw12/loop-zero": {
+ "https://github.com/juw12/handoff": {
   "name": "Handoff",
   "landing": "https://juw12.github.io/p/handoff/",
-  "readme": "https://github.com/juw12/loop-zero#readme"
+  "readme": "https://github.com/juw12/handoff#readme"
  },
  "https://github.com/juw12/projects/tree/add/etsy-prompts-product/apps/building/etsy-prompts-product": {
   "name": "150 ChatGPT Prompts for Etsy Sellers",
