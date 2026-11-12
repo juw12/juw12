@@ -403,5 +403,10 @@
   "name": "Kilat",
   "landing": "https://juw12.github.io/p/kilat/",
   "readme": "https://github.com/juw12/kilat#readme"
+ },
+ "https://github.com/juw12/cpu-eco-toggle": {
+  "name": "CPU Eco Toggle",
+  "landing": "https://juw12.github.io/p/cpu-eco-toggle/",
+  "readme": "https://github.com/juw12/cpu-eco-toggle#readme"
  }
 }
