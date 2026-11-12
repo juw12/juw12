@@ -408,5 +408,10 @@
   "name": "CPU Eco Toggle",
   "landing": "https://juw12.github.io/p/cpu-eco-toggle/",
   "readme": "https://github.com/juw12/cpu-eco-toggle#readme"
+ },
+ "https://github.com/juw12/tolstack": {
+  "name": "tolstack",
+  "landing": "https://juw12.github.io/p/tolstack/",
+  "readme": "https://github.com/juw12/tolstack#readme"
  }
 }

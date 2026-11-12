@@ -139,11 +139,12 @@
 </table>
 
 <details>
-<summary><b>2 workplace automations</b>: small tools I use in the R&amp;D day job</summary>
+<summary><b>3 workplace tools</b>: small tools I use in the R&amp;D day job</summary>
 
 
 - **[PLM AML Approval](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval): Python and Playwright tool that walks a Windchill-based PLM part-approval (AML) workflow end to end, verifies every field and stops before Submit so a person makes the final check.<br><sub>[Landing page](https://juw12.github.io/p/plm-aml-approval/) · [README](https://github.com/juw12/projects/tree/main/apps/plm-aml-approval#readme)</sub>
 - **[Outlook Archiver](https://github.com/juw12/projects/tree/main/apps/outlook-archiver)** [![Source](https://img.shields.io/badge/source-projects-24292f?style=flat&logo=github)](https://github.com/juw12/projects/tree/main/apps/outlook-archiver): A small Windows daemon that keeps Outlook's Inbox and Sent Items empty by moving every message into an Archives PST, while logging each one and showing a desktop toast so nothing is missed.<br><sub>[Landing page](https://juw12.github.io/p/outlook-archiver/) · [README](https://github.com/juw12/projects/tree/main/apps/outlook-archiver#readme)</sub>
+- **[tolstack](https://juw12.github.io/p/tolstack/)** [![Source](https://img.shields.io/badge/source-juw12/tolstack-24292f?style=flat&logo=github)](https://github.com/juw12/tolstack): 1-D tolerance stack-up from a STEP assembly and 2D PDF drawings: ranked part chains, worst case, RSS, Cp/Cpk and Monte Carlo, written to an Excel report with live formulas, 2D evidence and a sign-off block.<br><sub>[Landing page](https://juw12.github.io/p/tolstack/) · CI on Ubuntu and Windows · [README](https://github.com/juw12/tolstack#readme)</sub>
 
 </details>
 
