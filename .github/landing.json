@@ -428,5 +428,15 @@
   "name": "Bits & Tickers",
   "landing": "https://juw12.github.io/p/bits-and-tickers/",
   "readme": "https://github.com/juw12/bits-and-tickers#readme"
+ },
+ "https://github.com/juw12/agent-lessons": {
+  "name": "agent-lessons",
+  "landing": "https://juw12.github.io/p/agent-lessons/",
+  "readme": "https://github.com/juw12/agent-lessons#readme"
+ },
+ "https://github.com/juw12/social-saver": {
+  "name": "Social Saver",
+  "landing": "https://juw12.github.io/p/social-saver/",
+  "readme": "https://github.com/juw12/social-saver#readme"
  }
 }
