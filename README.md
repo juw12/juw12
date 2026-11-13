@@ -292,8 +292,9 @@
 
 <sub>Agents that verify instead of claiming: they run the checks, report honestly and stop when they should. See the <a href="https://github.com/juw12/skills#readme">README</a>; install with <code>git clone https://github.com/juw12/skills</code>.</sub>
 
-#### Workflow: verify instead of claim (8)
+#### Workflow: verify instead of claim (9)
 
+- **[agent-lessons](https://juw12.github.io/p/agent-lessons/)** [![Source](https://img.shields.io/badge/source-agent--lessons-24292f?style=flat&logo=github)](https://github.com/juw12/agent-lessons): 675 hard-won lessons from shipping 60+ projects with AI coding agents, sorted into 12 chapters with the 15 rules that matter most on top. Drop it into AGENTS.md or CLAUDE.md, or build your own with the bundled redact-and-leak-check script.
 - **[hone](https://github.com/juw12/skills/blob/main/skills/hone/SKILL.md)**: `/hone`: improve-until-done with full autonomy. Frozen rubric, separate judge, objective checks over the judge, keep-best and blind pairwise checks; works a run queue until it is empty and ends with `Stopped: <reason>`. Successor of refine-loop.
 - **[refine-loop](https://github.com/juw12/skills/blob/main/skills/refine-loop/SKILL.md)**: The original loop, for agents that should ask before acting. Improve-until-done without babysitting: frozen rubric, baseline score, separate judge, keep-best, blind A/B check against score inflation and hard stop rules. Ships an objective self-checker.
 - **[ambitious-founder](https://github.com/juw12/skills/blob/main/skills/ambitious-founder/SKILL.md)**: `/be-ambitious` + `/founder`: raises any task (goal beyond the goal, expert depth, outside judge) and pressure-tests a business idea with a buyer panel, Van Westendorp pricing and unit economics, ending in a script-computed verdict.
