@@ -64,7 +64,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/glow/"><img src="media/glow.jpg" alt="Glow" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/projects/glow/">Glow</a></b>: Six AI apps on one free account, in 4 languages. No API keys, and it keeps working offline.<br>
+      <b><a href="https://juw12.github.io/projects/glow/">Glow</a></b>: Six AI apps and a Telegram bot on one free account, in 4 languages. No API keys, and the apps keep working offline.<br>
       <sub><a href="https://juw12.github.io/projects/glow/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/glow-windows">Download</a> · <a href="https://juw12.github.io/p/glow/">Landing page</a> · 28 test files · <a href="https://github.com/juw12/projects/tree/main/apps/glow#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
