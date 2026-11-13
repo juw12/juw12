@@ -438,5 +438,10 @@
   "name": "Social Saver",
   "landing": "https://juw12.github.io/p/social-saver/",
   "readme": "https://github.com/juw12/social-saver#readme"
+ },
+ "https://github.com/juw12/tagalong": {
+  "name": "Tagalong",
+  "landing": "https://juw12.github.io/p/tagalong/",
+  "readme": "https://github.com/juw12/tagalong#readme"
  }
 }
