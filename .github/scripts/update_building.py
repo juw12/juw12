@@ -4,7 +4,7 @@ For every bullet between the BUILDING markers, look up the latest commit of the
 project's source (a whole repo, or a folder inside a monorepo such as
 juw12/projects/apps/haru) and append a one-line activity status.
 
-The order is hand-ranked (most solid first, grouped under tier headings) and is
+The order is hand-ranked (grouped under type headings, most solid first inside each) and is
 never changed here: only the status line (between <!--live--> markers) is managed. New bullets are picked up
 automatically as long as they contain a "Source" badge linking to GitHub.
 
@@ -32,8 +32,8 @@ README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- BUILDING:START -->"
 END = "<!-- BUILDING:END -->"
 CAPTION = (
-    "<sub><!--caption-->Ranked by how solid each project is (tests, releases, a working demo), "
-    "then by potential. Activity refreshes automatically every 2 hours.</sub>"
+    "<sub><!--caption-->Grouped by type; inside each group the most solid projects "
+    "(tests, releases, a working demo) come first. Activity refreshes automatically every 2 hours.</sub>"
 )
 
 STATUS_RE = re.compile(r"<br><sub><!--live-->.*?<!--/live--></sub>")
