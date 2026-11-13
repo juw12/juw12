@@ -184,11 +184,6 @@
   "landing": "https://juw12.github.io/p/e-coder/",
   "readme": "https://github.com/juw12/projects/tree/main/agents-lab/E-coder#readme"
  },
- "https://github.com/juw12/projects/tree/main/apps/crewcup": {
-  "name": "CrewCup",
-  "landing": "https://juw12.github.io/p/crewcup/",
-  "readme": "https://github.com/juw12/projects/tree/main/apps/crewcup#readme"
- },
  "https://github.com/juw12/shiphub": {
   "name": "shiphub",
   "landing": "https://juw12.github.io/p/shiphub/",
@@ -259,11 +254,6 @@
   "landing": "https://juw12.github.io/p/retrace/",
   "readme": "https://github.com/juw12/retrace#readme"
  },
- "https://github.com/juw12/tally": {
-  "name": "Tally",
-  "landing": "https://juw12.github.io/p/tally/",
-  "readme": "https://github.com/juw12/tally#readme"
- },
  "https://github.com/juw12/batam-uncle-says": {
   "name": "Batam Uncle Says",
   "landing": "https://juw12.github.io/p/batam-uncle-says/",
@@ -298,11 +288,6 @@
   "name": "Nongkrong",
   "landing": "https://juw12.github.io/p/nongkrong/",
   "readme": "https://github.com/juw12/nongkrong#readme"
- },
- "https://github.com/juw12/founder-studio": {
-  "name": "Founder Studio",
-  "landing": "https://juw12.github.io/p/founder-studio/",
-  "readme": "https://github.com/juw12/founder-studio#readme"
  },
  "https://github.com/juw12/precedent": {
   "name": "precedent",
