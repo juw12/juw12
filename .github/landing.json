@@ -448,5 +448,10 @@
   "name": "Sumber",
   "landing": "https://juw12.github.io/p/sumber/",
   "readme": "https://github.com/juw12/sumber#readme"
+ },
+ "https://github.com/juw12/lelet": {
+  "name": "Lelet",
+  "landing": "https://juw12.github.io/p/lelet/",
+  "readme": "https://github.com/juw12/lelet#readme"
  }
 }
