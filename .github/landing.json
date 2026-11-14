@@ -443,5 +443,10 @@
   "name": "Tagalong",
   "landing": "https://juw12.github.io/p/tagalong/",
   "readme": "https://github.com/juw12/tagalong#readme"
+ },
+ "https://github.com/juw12/sumber": {
+  "name": "Sumber",
+  "landing": "https://juw12.github.io/p/sumber/",
+  "readme": "https://github.com/juw12/sumber#readme"
  }
 }
