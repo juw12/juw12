@@ -463,5 +463,10 @@
   "name": "Titip",
   "landing": "https://juw12.github.io/p/titip/",
   "readme": "https://github.com/juw12/titip#readme"
+ },
+ "https://github.com/juw12/kemudi": {
+  "name": "Kemudi",
+  "landing": "https://juw12.github.io/p/kemudi/",
+  "readme": "https://github.com/juw12/kemudi#readme"
  }
 }
