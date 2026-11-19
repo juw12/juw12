@@ -468,5 +468,10 @@
   "name": "Kemudi",
   "landing": "https://juw12.github.io/p/kemudi/",
   "readme": "https://github.com/juw12/kemudi#readme"
+ },
+ "https://github.com/juw12/lineup": {
+  "name": "Lineup",
+  "landing": "https://juw12.github.io/p/lineup/",
+  "readme": "https://github.com/juw12/lineup#readme"
  }
 }
