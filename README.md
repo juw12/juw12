@@ -69,7 +69,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Types what you say into any app, offline, in 15 language choices (4.9% English word errors vs 37% for Windows speech). Your other AI agents (OpenCode, Claude Code, Codex) show up as named pointers and can click and type on screen through it, several at once. A window that a scheduled task or an AI app opens gets a named pointer too, which follows that program's clicks and typing in every app, on Windows and on a Mac. Runs on local models and asks before risky actions.<br>
+      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Types what you say into any app, offline, in 15 language choices (4.9% English word errors vs 37% for Windows speech). Your other AI agents (OpenCode, Claude Code, Codex) show up as named pointers and can click and type on screen through it, several at once. On Windows a window that a scheduled task or an AI app opens gets a named pointer too, and a pointer follows a program's clicks and typing in every app, on Windows and on a Mac. Runs on local models and asks before risky actions.<br>
       <sub><a href="https://github.com/juw12/buddy/releases/latest">Download</a> · <a href="https://juw12.github.io/buddy/">Landing page</a> · 20 test files · <a href="https://github.com/juw12/buddy#readme">README</a></sub>
     </td>
   </tr>
