@@ -473,5 +473,10 @@
   "name": "Lineup",
   "landing": "https://juw12.github.io/p/lineup/",
   "readme": "https://github.com/juw12/lineup#readme"
+ },
+ "https://github.com/juw12/spry": {
+  "name": "Spry",
+  "landing": "https://juw12.github.io/p/spry/",
+  "readme": "https://github.com/juw12/spry#readme"
  }
 }

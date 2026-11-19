@@ -241,9 +241,10 @@
 ## Tools and agent skills
 
 <details>
-<summary><b>2 standalone tools</b>, each in its own repo: precedent (agent autopilot) and CPU Eco Toggle (Windows tray switch)</summary>
+<summary><b>3 standalone tools</b>, each in its own repo: precedent (agent autopilot), Spry (keeps an old computer quick) and CPU Eco Toggle (Windows tray switch)</summary>
 
 - **[precedent](https://juw12.github.io/p/precedent/)** [![Source](https://img.shields.io/badge/source-juw12/precedent-24292f?style=flat&logo=github)](https://github.com/juw12/precedent) [![new](https://img.shields.io/badge/new-v3.3-0969da?style=flat&labelColor=24292f)](https://github.com/juw12/precedent): Stops false "I can't"s and unchecked "done"s in AI coding agents. Before an agent gives up, it finds a past success in your own agents' history and sends the give-up back with it; before it claims done, it asks for a real check. Hooks in Claude Code, Codex CLI, Gemini CLI, OpenCode and GitHub Copilot CLI; MCP tools for Cursor, Windsurf, VS Code and Claude Desktop. 106 tests; the runtime needs only the Python standard library.<br><sub>[Landing page](https://juw12.github.io/p/precedent/) · [README](https://github.com/juw12/precedent#readme)</sub>
+- **[Spry](https://juw12.github.io/p/spry/)** [![Source](https://img.shields.io/badge/source-juw12/spry-24292f?style=flat&logo=github)](https://github.com/juw12/spry) [![new](https://img.shields.io/badge/new-v0.1.1-0969da?style=flat&labelColor=24292f)](https://github.com/juw12/spry/releases/latest): Holds back busy background apps so the app in front gets the processor, and puts everything back when it stops. One small program for Windows, macOS and Linux. Measured on GitHub's test machines over 7 runs: the front app got 1.27x the work done on Windows and 2.1x to 2.4x on macOS and Linux while four background jobs were running. Not yet tried on a real old laptop.
 - **[CPU Eco Toggle](https://github.com/juw12/cpu-eco-toggle)** [![Source](https://img.shields.io/badge/source-juw12/cpu--eco--toggle-24292f?style=flat&logo=github)](https://github.com/juw12/cpu-eco-toggle): A Windows tray guard for when agents, builds and local LLMs pin the CPU at 100%: windowless background jobs always run at lower priority, one click moves them onto fewer cores, and Vector is restarted after a crash or freeze.
 
 </details>
