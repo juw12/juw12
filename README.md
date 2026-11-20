@@ -143,6 +143,10 @@
 
 ## Building
 
+[![Pocket Meter: fictional example, 51.5% chance of at least one sale. Open the simulator.](media/pocket-meter-example.svg)](https://juw12.github.io/p/pocket-meter/)
+
+**[Try Pocket Meter](https://juw12.github.io/p/pocket-meter/)** — adjust two fictional paid pilots and see what each contributes. This is a scenario demo, not my earnings.
+
 <details open>
 <summary><b>59 projects in progress</b>, grouped by type: life and health, social, learning, local business, creator tools, AI and developer tools, operating systems and languages, games</summary>
 
