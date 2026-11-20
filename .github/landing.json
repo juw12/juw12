@@ -478,5 +478,20 @@
   "name": "Spry",
   "landing": "https://juw12.github.io/p/spry/",
   "readme": "https://github.com/juw12/spry#readme"
+ },
+ "https://github.com/juw12/vector-relay": {
+  "name": "Vector Relay",
+  "landing": "https://juw12.github.io/p/vector-relay/",
+  "readme": "https://github.com/juw12/vector-relay#readme"
+ },
+ "https://github.com/juw12/themes": {
+  "name": "Themes",
+  "landing": "https://juw12.github.io/p/themes/",
+  "readme": "https://github.com/juw12/themes#readme"
+ },
+ "https://github.com/juw12/open-problems-lab": {
+  "name": "Open Problems Lab",
+  "landing": "https://juw12.github.io/p/open-problems-lab/",
+  "readme": "https://github.com/juw12/open-problems-lab#readme"
  }
 }
