@@ -332,6 +332,8 @@
 
 ## Games
 
+**[Neon Coast](https://juw12.github.io/neon-coast/)** — An original 3D island sandbox with six story jobs and a timed harbor courier shift. [Source](https://github.com/juw12/neon-coast)
+
 <sub>All six in one place: <a href="https://juw12.github.io/game/">juw12.github.io/game</a></sub>
 
 <table>
