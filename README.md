@@ -336,7 +336,7 @@
 
 ## Games
 
-**[Neon Coast](https://juw12.github.io/neon-coast/)** — An original open-world city sandbox in one offline HTML file: story jobs, cab fares, property, and police with a helicopter. [Source](https://github.com/juw12/neon-coast)
+**[Neon Coast](https://juw12.github.io/neon-coast/)** — An original open-world city sandbox in one offline HTML file: story jobs, cab fares, property, a Ferris wheel to ride, and police with a helicopter. [Source](https://github.com/juw12/neon-coast)
 
 <sub>All six in one place: <a href="https://juw12.github.io/game/">juw12.github.io/game</a></sub>
 
