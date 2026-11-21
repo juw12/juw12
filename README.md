@@ -51,14 +51,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://juw12.github.io/projects/twin/"><img src="media/twin.jpg" alt="Twin" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/projects/twin/">Twin</a></b>: Invest and day-trade with a twin that replays 10,000 futures before you risk real money.<br>
-      <sub><a href="https://juw12.github.io/projects/twin/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/twin">Download</a> · <a href="https://juw12.github.io/p/twin/">Landing page</a> · 135 test files · <a href="https://github.com/juw12/projects/tree/main/apps/twin#readme">README</a></sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://juw12.github.io/cairn/?demo=1"><img src="media/cairn.jpg" alt="Cairn: a second brain that lives inside your repo" width="100%"></a><br>
       <b><a href="https://juw12.github.io/cairn/?demo=1">Cairn</a></b>: A second brain that lives inside your repo: ideas, decisions and tasks as plain Markdown next to the code. Claude, Cursor or Copilot search and update it over MCP, a live dashboard shows your AI coding sessions, and your phone pairs by QR and stays in sync. Works with Obsidian; zero dependencies.<br>
       <sub><a href="https://juw12.github.io/cairn/?demo=1">Live demo</a> · <a href="https://juw12.github.io/brain/">My public brain</a> · <a href="https://juw12.github.io/p/cairn/">Landing page</a> · 26 test files · <a href="https://github.com/juw12/cairn#readme">README</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Types what you say into any app, offline, in 15 language choices (4.9% English word errors vs 37% for Windows speech). Your other AI agents (OpenCode, Claude Code, Codex) show up as named pointers and can click and type on screen through it, several at once. On Windows a window that a scheduled task or an AI app opens gets a named pointer too, and a pointer follows a program's clicks and typing in every app, on Windows and on a Mac. Runs on local models and asks before risky actions.<br>
+      <sub><a href="https://github.com/juw12/buddy/releases/latest">Download</a> · <a href="https://juw12.github.io/buddy/">Landing page</a> · 20 test files · <a href="https://github.com/juw12/buddy#readme">README</a></sub>
     </td>
   </tr>
   <tr>
@@ -68,9 +68,9 @@
       <sub><a href="https://juw12.github.io/projects/glow/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/glow-windows">Download</a> · <a href="https://juw12.github.io/p/glow/">Landing page</a> · 28 test files · <a href="https://github.com/juw12/projects/tree/main/apps/glow#readme">README</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://juw12.github.io/buddy/"><img src="media/buddy.jpg" alt="Buddy" width="100%"></a><br>
-      <b><a href="https://juw12.github.io/buddy/">Buddy</a></b>: Guides new factory engineers through PLM, SRM and ERP screens click by click, or clicks for them. Types what you say into any app, offline, in 15 language choices (4.9% English word errors vs 37% for Windows speech). Your other AI agents (OpenCode, Claude Code, Codex) show up as named pointers and can click and type on screen through it, several at once. On Windows a window that a scheduled task or an AI app opens gets a named pointer too, and a pointer follows a program's clicks and typing in every app, on Windows and on a Mac. Runs on local models and asks before risky actions.<br>
-      <sub><a href="https://github.com/juw12/buddy/releases/latest">Download</a> · <a href="https://juw12.github.io/buddy/">Landing page</a> · 20 test files · <a href="https://github.com/juw12/buddy#readme">README</a></sub>
+      <a href="https://juw12.github.io/projects/twin/"><img src="media/twin.jpg" alt="Twin" width="100%"></a><br>
+      <b><a href="https://juw12.github.io/projects/twin/">Twin</a></b>: Invest and day-trade with a twin that replays 10,000 futures before you risk real money.<br>
+      <sub><a href="https://juw12.github.io/projects/twin/">Live demo</a> · <a href="https://github.com/juw12/projects/releases/tag/twin">Download</a> · <a href="https://juw12.github.io/p/twin/">Landing page</a> · 135 test files · <a href="https://github.com/juw12/projects/tree/main/apps/twin#readme">README</a></sub>
     </td>
   </tr>
   <tr>
