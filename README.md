@@ -58,7 +58,7 @@
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/cairn/?demo=1"><img src="media/cairn.jpg" alt="Cairn: a second brain that lives inside your repo" width="100%"></a><br>
       <b><a href="https://juw12.github.io/cairn/?demo=1">Cairn</a></b>: A second brain that lives inside your repo: ideas, decisions and tasks as plain Markdown next to the code. Claude, Cursor or Copilot search and update it over MCP, a live dashboard shows your AI coding sessions, and your phone pairs by QR and stays in sync. Works with Obsidian; zero dependencies.<br>
-      <sub><a href="https://juw12.github.io/cairn/?demo=1">Live demo</a> · <a href="https://juw12.github.io/cairn/?u=juw12">My public brain</a> · <a href="https://juw12.github.io/p/cairn/">Landing page</a> · 26 test files · <a href="https://github.com/juw12/cairn#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/cairn/?demo=1">Live demo</a> · <a href="https://juw12.github.io/brain/">My public brain</a> · <a href="https://juw12.github.io/p/cairn/">Landing page</a> · 26 test files · <a href="https://github.com/juw12/cairn#readme">README</a></sub>
     </td>
   </tr>
   <tr>
