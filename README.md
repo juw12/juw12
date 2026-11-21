@@ -420,5 +420,5 @@
 <p align="center">
   <sub>Every public project is released under the <a href="https://github.com/juw12/.github/blob/main/LICENSE">MIT License</a>; contributions follow the <a href="https://github.com/juw12/.github/blob/main/CODE_OF_CONDUCT.md">Contributor Covenant</a>, the <a href="https://github.com/juw12/.github/blob/main/CONTRIBUTING.md">contributing guide</a> and <a href="https://github.com/juw12/.github/blob/main/SECURITY.md">security policy</a>.</sub><br>
   <sub>Independent personal projects. No employer endorsement implied. Demos and prototypes vary in maturity; check each README before use.</sub><br>
-  <sub>If something here is useful, a star on the repo helps, and <a href="https://github.com/juw12">following @juw12</a> keeps you posted on what ships next.</sub>
+  <sub>If something here is useful, a star on the repo helps, and <a href="https://github.com/juw12">following @juw12</a> keeps you posted on what ships next. Tips are welcome on <a href="https://trakteer.id/juw12">Trakteer</a>.</sub>
 </p>
