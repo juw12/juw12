@@ -336,7 +336,7 @@
 
 ## Games
 
-**[Neon Coast](https://juw12.github.io/neon-coast/)** — An original open-world city sandbox in one offline HTML file, with touch controls for phones and tablets: story jobs, cab fares, property, a Ferris wheel to ride, a skyline with its own outlines, a three-station radio, and police with a helicopter. [Source](https://github.com/juw12/neon-coast)
+**[Neon Coast](https://juw12.github.io/neon-coast/)** — An original open-world city sandbox in one offline HTML file, with touch controls for phones and tablets: story jobs, six kinds of odd job (one is tailing a car without being seen), cab fares, property, a Ferris wheel to ride, a skyline with its own outlines, a three-station radio, and police with a helicopter. [Source](https://github.com/juw12/neon-coast)
 
 <sub>All six in one place: <a href="https://juw12.github.io/game/">juw12.github.io/game</a></sub>
 
