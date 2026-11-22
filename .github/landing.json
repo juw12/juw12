@@ -493,5 +493,10 @@
   "name": "Open Problems Lab",
   "landing": "https://juw12.github.io/p/open-problems-lab/",
   "readme": "https://github.com/juw12/open-problems-lab#readme"
+ },
+ "https://github.com/juw12/talos": {
+  "name": "Talos",
+  "landing": "https://juw12.github.io/talos/",
+  "readme": "https://github.com/juw12/talos#readme"
  }
 }
