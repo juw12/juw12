@@ -358,7 +358,7 @@
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/projects/gamelib/"><img src="media/game-library.jpg" alt="Game Library" width="100%"></a><br>
       <b><a href="https://juw12.github.io/projects/gamelib/">Game Library</a></b>: A searchable collection of browser games by category, with a Surprise Me button. Runs offline in the browser.<br>
-      <sub><a href="https://juw12.github.io/projects/gamelib/">Play</a> · <a href="https://juw12.github.io/p/game-library/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/gamelib#readme">README</a></sub>
+      <sub><a href="https://juw12.github.io/projects/gamelib/">Play</a> · <a href="https://juw12.github.io/p/game-library/">Landing page</a> · <a href="https://github.com/juw12/projects/tree/main/apps/gamelib#readme">README</a> · <a href="https://github.com/juw12/projects/tree/main/apps/gamelib#get-it-on-your-device">Windows, Mac and Android apps</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://juw12.github.io/portfolio/game/townsquare/"><img src="media/townsquare-3d.jpg" alt="Townsquare 3D" width="100%"></a><br>
